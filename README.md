@@ -22,6 +22,7 @@ Day 3 / 100 If its for free its for me!!!
 Twitter: https://twitter.com/Ui3er/status/1420584636762271750
 
 Summary: For the 100th time I restarted my progress in Freecodecamp just to have a fresh start. So far all I did was the HTML & HTML5 section in freecodecamp. A good note taking            not app to use with coding is remnote (https://www.remnote.io/knowledge-base). You can create a code section that color codes and indents any code you put inside it. This          is my first time using it so we will see if it comes in handy further down the line.
+
 <img src="https://user-images.githubusercontent.com/28234609/127427084-f11c8bcc-8986-41a3-95be-f4642908159d.png">
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
