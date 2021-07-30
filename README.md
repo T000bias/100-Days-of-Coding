@@ -30,6 +30,6 @@ Day 4 / 100
 
 Summary: I only did the freecodecamp "Basic CSS."
 
-<img src="![image](https://user-images.githubusercontent.com/28234609/127589580-f9f5a770-15bf-43a8-a20f-7633cecfd2c8.png)">
+<img src="https://user-images.githubusercontent.com/28234609/127589580-f9f5a770-15bf-43a8-a20f-7633cecfd2c8.png">
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
