@@ -32,7 +32,8 @@ Summary: I only did the freecodecamp "Basic CSS."
 <img src="https://user-images.githubusercontent.com/28234609/127589580-f9f5a770-15bf-43a8-a20f-7633cecfd2c8.png">
 <hr>
 <p> Day 5/100</p>
-<p> Summary </p>
+<p> Summary: </p>
+<p> <a href="https://github.com/T000bias/10-Mega-Responsive-Websites-with-HTML-CSS-JavaScript"> Project 1 Food </a>
 
 
 
