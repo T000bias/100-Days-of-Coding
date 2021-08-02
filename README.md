@@ -17,7 +17,7 @@ Summary: Nothing was really done today due to hardware issues, but an attempt wa
 
 The Marathon Continues
 <hr>
-Day 3 / 100 If its for free its for me!!!
+Day 3/100: If its for free its for me!!!
 
 Twitter: https://twitter.com/Ui3er/status/1420584636762271750
 
@@ -25,17 +25,18 @@ Summary: For the 100th time I restarted my progress in Freecodecamp just to have
 
 <img src="https://user-images.githubusercontent.com/28234609/127427084-f11c8bcc-8986-41a3-95be-f4642908159d.png">
 <hr>
-Day 4 / 100 
+Day 4/100 
 
 Summary: I only did the freecodecamp "Basic CSS."
 
 <img src="https://user-images.githubusercontent.com/28234609/127589580-f9f5a770-15bf-43a8-a20f-7633cecfd2c8.png">
 <hr>
-<p> Day 5/100</p>
+<p> Day 5/100: I finally know what it feels like </p>
 <p> Summary: First, I was accepted to Resilent Coders Bootcamp for their co-hort of 2021. Even though I will be getting trained how to be a software engineer I will still be updating my 100 days of code. Today showed me that copying code might not always yield the same result. For the first project apart of the "10 Mega Websites" wasn't working for me even though I copied the code exact. The first error on my part was putting the script outside of the body but even with that things still were not working properly. On top of that I completed some of Freecodecamp's "Applied Visual Design." </p>
 <img src="https://user-images.githubusercontent.com/28234609/127798832-18723e4c-1e45-45a4-9c29-346d7bc9bb78.png">
 
 <a href="https://github.com/T000bias/10-Mega-Responsive-Websites-with-HTML-CSS-JavaScript"> Project 1 Food </a>
+<hr>
 
 
 
