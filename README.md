@@ -33,7 +33,7 @@ Summary: I only did the freecodecamp "Basic CSS."
 <hr>
 <p> Day 5/100</p>
 <p> Summary: First, I was accepted to Resilent Coders Bootcamp for their co-hort of 2021. Even though I will be getting trained how to be a software engineer I will still be updating my 100 days of code. Today showed me that copying code might not always yield the same result. For the first project apart of the "10 Mega Websites" wasn't working for me even though I copied the code exact. The first error on my part was putting the script outside of the body but even with that things still were not working properly. On top of that I completed some of Freecodecamp's "Applied Visual Design." </p>
-<img href="https://user-images.githubusercontent.com/28234609/127798832-18723e4c-1e45-45a4-9c29-346d7bc9bb78.png>
+<img src="https://user-images.githubusercontent.com/28234609/127798832-18723e4c-1e45-45a4-9c29-346d7bc9bb78.png>
 
 <a href="https://github.com/T000bias/10-Mega-Responsive-Websites-with-HTML-CSS-JavaScript"> Project 1 Food </a>
 
