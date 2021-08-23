@@ -41,6 +41,40 @@ Summary: I only did the freecodecamp "Basic CSS."
 <p>Summary: </p>
 <img src="https://user-images.githubusercontent.com/28234609/127936762-3c3b40d3-ad0b-48df-a39a-59038c42c0f3.png">
 <hr>
+<p> Day 7/100 | Date:08/12/2021 | Wasted Time Could be Benificial </p> 
+<p> My <a href="https://twitter.com/Ui3er/status/1419849137500135425"> Tweet </a></p>
+<p> Summary: I don't remember much of the work I completed, but it was more of the freecodecamp "Responsive Web Design" modules. I also watched this video on entrepreneurship on <a href="https://www.udemy.com/course/draft/1351746/learn/lecture/7997460#overview"> Udemy </a>. If you are new to entrepreneurship this course is worth picking up.</p>
+<hr>
+<p> Day 8/100 | Date: 08/13/2021 | CSS is Hard </p>
+<p> My <a href="https://twitter.com/Ui3er/status/1419849137500135425"> Tweet </a> </p>
+<p> Summary: Even though Freecodecamp was detailed in their explanation of the flexbox and grid, I know have to dive deeper into those subjects before I feel comfortable using these new techniques.</p>
+<img src="https://user-images.githubusercontent.com/28234609/130529280-35dcc183-ed9d-4e64-98bb-ca72ea040d4e.png">
+<hr>
+<p> Day 9/100 | Date: 08/16/2021 | Work & Vacation </p>
+<p> My <a href="https://twitter.com/Ui3er/status/1427467897136455681"> Tweet </a> </p>
+<p> Summary: I finished the tribute page for freecodecamp and got started on the survey page, but since I was on vacation I didn't get much done.</p>
+<p> <a href="https://codepen.io/T00bias/pen/ZEKNbdz"> Tribute Page </a> </p>
+<p> <a href="https://codepen.io/T00bias/pen/zYwQKmw"> Survey Page </a> </p>
+<hr>
+<p> Day 10/100 | Date 08/19/2021 | Networking is Important </p>
+<p> My <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: Finished the product landing page for FCC (freecodecamp) and branched out to software engineers on LinkedIn and Twitter (of all places). Learned a few things that gave me the confidence to keep going with my journey.</p>
+<ul>
+  <title>Advice</title>
+  <li>Don't Give Up.</li>
+  <li>Once you are building fullstack apps, you are job ready, whether you think you are or not.</li>
+  <li>Try 100 devs</li>
+  <li>When it gets hard, just remind yourself that it will all make sense eventually.</li>
+  <li> Coding is 90% not giving up and 10% pushing yourself.</li>
+</ul>
+<hr>
+<p> Day 11/100 | Date 08/23/2021 | Rough Roads Ahead </p>
+<p> Summary: Got my certificate for the Responsive Web Design. Even though I spent hours obtaining this, I still need to go back through my notes on the modules and update my projects. Other than that it feels good to see my work paying off.</p>
+<p> ADVICE: Even if your projects look like a baby did, be proud of them because they are 10,000 steps you will take to mastery </p>
+<img src="https://pbs.twimg.com/media/E9ddzoTWQAAxxrv?format=png&name=900x900">
+<hr>
+  
+  
 
 
 
