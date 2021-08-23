@@ -60,7 +60,7 @@ Summary: I only did the freecodecamp "Basic CSS."
 <p> My <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
 <p> Summary: Finished the product landing page for FCC (freecodecamp) and branched out to software engineers on LinkedIn and Twitter (of all places). Learned a few things that gave me the confidence to keep going with my journey.</p>
 <ul>
-  <title>Advice</title>
+  <h2>Advice</h2>
   <li>Don't Give Up.</li>
   <li>Once you are building fullstack apps, you are job ready, whether you think you are or not.</li>
   <li>Try 100 devs</li>
