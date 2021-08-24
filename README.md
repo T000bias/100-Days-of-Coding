@@ -78,6 +78,12 @@ Summary: I only did the freecodecamp "Basic CSS."
 <p> My <a href="https://twitter.com/Ui3er/status/1429990580805939201"> Tweet </a> </p>
 <p>Summary: Did 10 modules of the "Basic JavaScript" for FCC. Planning on going thru the #100Devs discord and working on some projects they have done and getting feedback from that community on my work and what could use improving.</p>
 <hr>
+<p> Day 13/100 | Date 08/24/2021 | More JavaScript, but more projects </p>
+<p> My <a href="https://twitter.com/Ui3er/status/1429990580805939201"> Tweet</a> </p>
+<p>Summary: </p>
+<img src="(https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png)">
+<hr>
+
   
   
 
