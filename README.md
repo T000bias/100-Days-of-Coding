@@ -1,29 +1,3 @@
-<style>
-  .grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
-  
-  .cell {
-    flex: 0 0 32%;
-    height: 50px;
-    margin-bottom: 5px;
-    background-color: #999;
-  }
-  
-  .cell: nth-child(3n) {
-    background-color: #F00;
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-    
-  
-  </style>
-
 
 <p># 100-Days-of-Coding</p>
 <p>This repository is to log my journey for the next 100 Days while learning how to code. From courses to conversations all important or relevant information will be placed here. </p>
@@ -126,7 +100,7 @@ Summary: I only did the freecodecamp "Basic CSS."
     
 <p>Summary: </p>
 <div class="grid">
-<div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png"></div>
+<div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png" height="500" width="500"></div>
 <div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130673078-465f9d7a-32eb-4fcf-bdd8-565628e947d3.png"></div>
   </div>
 
