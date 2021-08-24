@@ -108,17 +108,18 @@
 <figure>
   <figcaption> Tasks Completed </figcaption>
   <ul>
-    <li> freeCodeCamp: Divide One Number by Another with JavaScript </li>
-    <li> freeCodeCamp: Increment a Number with JavaScript </li>
-    <li> freeCodeCamp: Decrement a Number with JavaScript </li>
-    <li> freeCodeCamp: Create Decimal Numbers with JavaScript </li>
-    <li> freeCodeCamp: Multiply Two Decimals with JavaScript </li>
-    <li> freeCodeCamp: Divide One Decimal by Another with JavaScript </li>
-    <li> freeCodeCamp: Finding a Remainder in JavaScript </li>
-    <li> freeCodeCamp: Compound Assignment with Augmented Addition </li>
-    <li> freeCodeCamp: Compound Assignment with Augmented Subtraction </li>
-    <li> freeCodeCamp: Compound Assignment with Augmented Multiplication </li>
-    <li> freeCodeCamp: Compound Assignment with Augmented Division </li>
+    <figcaption> freeCodeCamp </figcaption>
+    <li> Divide One Number by Another with JavaScript </li>
+    <li> Increment a Number with JavaScript </li>
+    <li> Decrement a Number with JavaScript </li>
+    <li> Create Decimal Numbers with JavaScript </li>
+    <li> Multiply Two Decimals with JavaScript </li>
+    <li> Divide One Decimal by Another with JavaScript </li>
+    <li> Finding a Remainder in JavaScript </li>
+    <li> Compound Assignment with Augmented Addition </li>
+    <li> Compound Assignment with Augmented Subtraction </li>
+    <li> Compound Assignment with Augmented Multiplication </li>
+    <li> Compound Assignment with Augmented Division </li>
   </ul>
 </figure>
     
