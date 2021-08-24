@@ -112,7 +112,7 @@
 <figure>
   <figcaption> Tasks Completed </figcaption>
   <ul>
-    <figcaption> freeCodeCamp </figcaption>
+    <figcaption> <b>freeCodeCamp</b> </figcaption>
     <li> Divide One Number by Another with JavaScript </li>
     <li> Increment a Number with JavaScript </li>
     <li> Decrement a Number with JavaScript </li>
@@ -124,6 +124,8 @@
     <li> Compound Assignment with Augmented Subtraction </li>
     <li> Compound Assignment with Augmented Multiplication </li>
     <li> Compound Assignment with Augmented Division </li>
+    <figcaption> <b>GitHub</b> </figcaption>
+    <li> Updated GitHub 100DaysOfCode repository </li>
   </ul>
 </figure>
     
