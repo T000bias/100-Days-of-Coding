@@ -16,6 +16,12 @@
     background-color: #F00;
   }
   
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+    
+  
   </style>
 
 
@@ -103,7 +109,6 @@ Summary: I only did the freecodecamp "Basic CSS."
 <p> My <a href="https://twitter.com/Ui3er/status/1429990580805939201"> Tweet</a> </p>
 <ul>
   <p> Tasks Completed </p>
-  <li> freeCodeCamp:Increm </li>
   <li> freeCodeCamp:Divide One Number by Another with JavaScript </li>
   <li> freeCodeCamp:Increment a Number with JavaScript </li>
   <li> freeCodeCamp:Decrement a Number with JavaScript </li>
