@@ -68,11 +68,15 @@ Summary: I only did the freecodecamp "Basic CSS."
   <li> Coding is 90% not giving up and 10% pushing yourself.</li>
 </ul>
 <hr>
-<p> Day 11/100 | Date 08/23/2021 | Rough Roads Ahead </p> 
+<p> Day 11/100 | Date 08/22/2021 | Rough Roads Ahead </p> 
 <p> My <a href="https://twitter.com/Ui3er/status/1429647527813472257"> Tweet </p>
 <p> Summary: Got my certificate for the Responsive Web Design. Even though I spent hours obtaining this, I still need to go back through my notes on the modules and update my projects. Other than that it feels good to see my work paying off.</p>
 <p> ADVICE: Even if your projects look like a baby did, be proud of them because they are 10,000 steps you will take to mastery </p>
 <img src="https://pbs.twimg.com/media/E9ddzoTWQAAxxrv?format=png&name=900x900">
+<hr>
+<p> Day 12/100 | Date 08/23/2021 | I hate that JavaScript is Long </p>
+<p> My <a href="https://twitter.com/Ui3er/status/1429990580805939201"> Tweet </a> </p>
+<p>Summary: Did 10 modules of the "Basic JavaScript" for FCC. Planning on going thru the #100Devs discord and working on some projects they have done and getting feedback from that community on my work and what could use improving.</p>
 <hr>
   
   
