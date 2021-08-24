@@ -1,4 +1,8 @@
 <h1> The next change that needs to be implemented is a navbar that goes to the specific day out of the 100 </h1>
+<h1> for list, there should be icons next to the main websites and there should be links to the courses/books being completed </h1>
+
+<hr>
+
 <h2>Day 1 / 100: To You, 100 Days from Now</h2>
 
 <p> My <a href="https://twitter.com/Ui3er/status/1419849137500135425"> Tweet </a></p>
