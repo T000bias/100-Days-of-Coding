@@ -107,20 +107,22 @@ Summary: I only did the freecodecamp "Basic CSS."
 <hr>
 <p> Day 13/100 | Date 08/24/2021 | More JavaScript, but more projects </p>
 <p> My <a href="https://twitter.com/Ui3er/status/1429990580805939201"> Tweet</a> </p>
-<ul>
-  <p> Tasks Completed </p>
-  <li> freeCodeCamp:Divide One Number by Another with JavaScript </li>
-  <li> freeCodeCamp:Increment a Number with JavaScript </li>
-  <li> freeCodeCamp:Decrement a Number with JavaScript </li>
-  <li> freeCodeCamp:Create Decimal Numbers with JavaScript </li>
-  <li> freeCodeCamp:Multiply Two Decimals with JavaScript </li>
-  <li> freeCodeCamp:Divide One Decimal by Another with JavaScript </li>
-  <li> freeCodeCamp:Finding a Remainder in JavaScript </li>
-  <li> freeCodeCamp:Compound Assignment with Augmented Addition </li>
-  <li> freeCodeCamp:Compound Assignment with Augmented Subtraction </li>
-  <li> freeCodeCamp:Compound Assignment with Augmented Multiplication </li>
-  <li> freeCodeCamp:Compound Assignment with Augmented Division </li>
-</ul>
+<figure>
+  <figcaption> Tasks Completed </figcaption>
+  <ul>
+    <li> freeCodeCamp: Divide One Number by Another with JavaScript </li>
+    <li> freeCodeCamp: Increment a Number with JavaScript </li>
+    <li> freeCodeCamp: Decrement a Number with JavaScript </li>
+    <li> freeCodeCamp: Create Decimal Numbers with JavaScript </li>
+    <li> freeCodeCamp: Multiply Two Decimals with JavaScript </li>
+    <li> freeCodeCamp: Divide One Decimal by Another with JavaScript </li>
+    <li> freeCodeCamp: Finding a Remainder in JavaScript </li>
+    <li> freeCodeCamp: Compound Assignment with Augmented Addition </li>
+    <li> freeCodeCamp: Compound Assignment with Augmented Subtraction </li>
+    <li> freeCodeCamp: Compound Assignment with Augmented Multiplication </li>
+    <li> freeCodeCamp: Compound Assignment with Augmented Division </li>
+  </ul>
+</figure>
     
 <p>Summary: </p>
 <div class="grid">
