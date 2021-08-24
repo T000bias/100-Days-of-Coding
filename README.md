@@ -100,7 +100,7 @@ Summary: I only did the freecodecamp "Basic CSS."
     
 <p>Summary: </p>
 <div class="grid">
-<div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png" height="500" width="500"></div>
+<div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png" height="50%" width="50%"></div>
 <div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130673078-465f9d7a-32eb-4fcf-bdd8-565628e947d3.png"></div>
   </div>
 
