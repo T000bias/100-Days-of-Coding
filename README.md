@@ -1,3 +1,24 @@
+<style>
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .cell {
+    flex: 0 0 32%;
+    height: 50px;
+    margin-bottom: 5px;
+    background-color: #999;
+  }
+  
+  .cell: nth-child(3n) {
+    background-color: #F00;
+  }
+  
+  </style>
+
+
 <p># 100-Days-of-Coding</p>
 <p>This repository is to log my journey for the next 100 Days while learning how to code. From courses to conversations all important or relevant information will be placed here. </p>
 <hr>
@@ -69,7 +90,7 @@ Summary: I only did the freecodecamp "Basic CSS."
 </ul>
 <hr>
 <p> Day 11/100 | Date 08/22/2021 | Rough Roads Ahead </p> 
-<p> My <a href="https://twitter.com/Ui3er/status/1429647527813472257"> Tweet </p>
+<p> My <a href="https://twitter.com/Ui3er/status/1429647527813472257"> Tweet </a> </p>
 <p> Summary: Got my certificate for the Responsive Web Design. Even though I spent hours obtaining this, I still need to go back through my notes on the modules and update my projects. Other than that it feels good to see my work paying off.</p>
 <p> ADVICE: Even if your projects look like a baby did, be proud of them because they are 10,000 steps you will take to mastery </p>
 <img src="https://pbs.twimg.com/media/E9ddzoTWQAAxxrv?format=png&name=900x900">
@@ -97,8 +118,10 @@ Summary: I only did the freecodecamp "Basic CSS."
 </ul>
     
 <p>Summary: </p>
-<img src="https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png">
-<img src="https://user-images.githubusercontent.com/28234609/130673078-465f9d7a-32eb-4fcf-bdd8-565628e947d3.png">
+<div class="grid">
+<div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png"></div>
+<div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130673078-465f9d7a-32eb-4fcf-bdd8-565628e947d3.png"></div>
+  </div>
 
 <hr>
 
