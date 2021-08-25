@@ -109,6 +109,7 @@
 
 <h2> Day 13/100 | Date 08/24/2021 | More JavaScript, but more projects </h2>
 <p> My <a href="https://twitter.com/Ui3er/status/1429990580805939201"> Tweet</a> </p>
+<p> Another day of doing the freeCodeCamp (I see why they spell the name out like this, IYKYK) basic JavaScript modules and did some reading of simple JavaScript from "If Hemingway Wrote JavaScript". I finished the day off with a YouTube video on Front-End engineering just to get a lay of the land. Hopefully by my next log in I will have a navbar at the top of this repository that will allow navigation to all days. This not gives me practice on making navigation bars, but also confindence in my abilities. </p>
 <figure>
   <figcaption> Tasks Completed </figcaption>
   <ul>
@@ -126,14 +127,20 @@
     <li> Compound Assignment with Augmented Division </li>
     <figcaption> <b>GitHub</b> </figcaption>
     <li> Updated GitHub 100DaysOfCode repository </li>
+    <figcaption> <b>If Hemingway wrote JavaScript</b> </figcaption>
+    <li>Ernest Hemingway</li>
+    <figcaption> <b>Front-End Developer Handbook 2019</b> </figcaption>
+    <li> Chapter 1 </li>
+    <li> Chapter 2 (incomplete) </li>
+    <figcaption> <b>YouTube</b> </figcaption>
+    <li> <a href="https://www.youtube.com/watch?v=Lsg84NtJbmI">So, You Want to be a Front-End Engineer</a></li>
   </ul>
 </figure>
     
-<p>Summary: </p>
-<div class="grid">
-<div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png" height="30%" width="30%"></div>
-<div class="cell"><img src="https://user-images.githubusercontent.com/28234609/130673078-465f9d7a-32eb-4fcf-bdd8-565628e947d3.png" height="30%" width="30%"></div>
-</div>
+<img src="https://user-images.githubusercontent.com/28234609/130671985-8157f278-aeb6-4b9e-8f33-98587d944b6b.png" height="30%" width="30%">
+<img src="https://user-images.githubusercontent.com/28234609/130673078-465f9d7a-32eb-4fcf-bdd8-565628e947d3.png" height="30%" width="30%">
+<img src="https://user-images.githubusercontent.com/28234609/130722863-b54e782a-3137-4b9f-b5cb-d0c95181fa56.png" height="30%" width="30%">
+
 <p> The Marathon Continues </p>
 
 <hr>
