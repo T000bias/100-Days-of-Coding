@@ -178,6 +178,36 @@
 
 <h2 id="day14"> Day 14/100 | Date 08/25/2021 | Wake up (code), sleeping (code)  </h2>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: </p>
+
+<figure>
+  <figcaption> Task Completed </figcaption>
+  <figcaption> freeCodeCamp </figcaption>
+  <ul>
+    <li> Declare String Variables </li>
+    <li> Escaping Literal Quotes in Strings </li>
+    <li> Quoting Strings with Single Quotes </li>
+    <li> Escape Sequences in Strings </li>
+    <li> Concatenating Strings with Plus Operator </li>
+    <li> Concatenating Strings with the Plus Equals Operator </li>
+    <li> Constructing Strings with Variable </li>
+    <li> Appending Variables to Strings </li>
+    <li> Find the Length of a String </li>
+    <li> Use Bracket Notation to Find the Nth Character in a String </li>
+  </ul>
+  <figcaption> Front-End Developer Handbook </figcaption>
+  <ul>
+    <li> 2.1 - How Front-End Developers are Made </li>
+    <li> 2.2 - Front-End Job Titles </li>
+    <li> 2.3 - Baseline Web Technologies Employed by Front-End Developers  </li>
+    <li> 2.4 - Potential Front-End Developers Skills </li>
+    <li> 2.5 - Front-End Developers Develop For... </li>
+    <li> 2.6 - Front-End on a Team </li>
+    <li> 2.7 - Generalist/Full-Stack Myth </li>
+    <li> 2.8 - Front-End Interviews </li>
+    <li> 2.1 - Front-End Job Boards </li>
+  </ul>
+</figure>
 
 
 <hr>
