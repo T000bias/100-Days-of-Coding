@@ -17,7 +17,7 @@
     <li> <a href=#day10> Day 10 </a> </li>
     <li> <a href=#day11> Day 11 </a> </li>
     <li> <a href=#day12> Day 12 </a> </li>
-    <li> <a href=#day13> Day 1 3</a> </li>
+    <li> <a href=#day13> Day 13</a> </li>
   </ul>
 </nav>
  
