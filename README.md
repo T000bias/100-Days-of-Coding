@@ -3,7 +3,29 @@
 
 <hr>
 
-<h2>Day 1 / 100: To You, 100 Days from Now</h2>
+<nav>
+  <ul>
+    <li> <a href=#day1> Day 1 </a> </li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</nav>
+ 
+  
+
+<hr>
+
+<h2 id="day1">Day 1 / 100: To You, 100 Days from Now</h2>
 
 <p> My <a href="https://twitter.com/Ui3er/status/1419849137500135425"> Tweet </a></p>
 
