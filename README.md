@@ -7,21 +7,21 @@
 
 <nav>
   <ul>
-    <li> <a href=#day1> Day 1 </a> To You, 100 Days from Now </li>
-    <li> <a href=#day2> Day 2 </a> Perfect Practice makes Perfect </li>
-    <li> <a href=#day3> Day 3 </a> If its for free its for me!!! </li>
-    <li> <a href=#day4> Day 4 </a> I finally know what it feels like to be a programmer </li>
-    <li> <a href=#day5> Day 5 </a> I finally know what it feels like pt.2  </li>
-    <li> <a href=#day6> Day 6 </a> Wasted Time Could be Benificial  </li>
-    <li> <a href=#day7> Day 7 </a> CSS is Hard  </li>
-    <li> <a href=#day8> Day 8 </a></li>
+    <li> <a href=#day1> Day 1 To You, 100 Days from Now </a></li>
+    <li> <a href=#day2> Day 2 Perfect Practice makes Perfect  </a></li>
+    <li> <a href=#day3> Day 3 If its for free its for me!!! </a></li>
+    <li> <a href=#day4> Day 4 </a></li>
+    <li> <a href=#day5> Day 5 I finally know what it feels like to be a programmer  </a>  </li>
+    <li> <a href=#day6> Day 6 I finally know what it feels like pt.2</a></li>
+    <li> <a href=#day7> Day 7 Wasted Time Could be Benificial   </a></li>
+    <li> <a href=#day8> Day 8 CSS is Hard   </a></li>
     <li> <a href=#day9> Day 9 </a> Work & Vacation   </li>
     <li> <a href=#day10> Day 10 </a>  Networking is Important  </li>
     <li> <a href=#day11> Day 11 </a>  Rough Roads Ahead </li>
     <li> <a href=#day12> Day 12 </a>  I hate that JavaScript is Long  </li>
     <li> <a href=#day13> Day 13 </a> More JavaScript, but more project plans  </li>
     <li> <a href=#day14> Day 14 </a> Wake up (code), sleeping (code) </li>
-    <li> <a href=#day15> Day 15 </a> Steele sharpen Steele </li>
+    <li> <a href=#day15> Day 15 </a> Steele Sharpen Steele </li>
     <li> <a href=#day16> Day 16 </a> </li>
     <li> <a href=#day17> Day 17 </a> </li>
     <li> <a href=#day18> Day 18 </a> </li>
@@ -117,7 +117,7 @@
 
 <p> My <a href="https://twitter.com/Ui3er/status/1419849137500135425"> Tweet </a></p>
 
-<p> Summary: Currently I am using a chrome extension called "100daysof.codes" (https://100daysof.codes/). This extension allows you to Set a main goal of your journey and then set specific goals for each day; you can also set subtasks for that day's goal. The first day is always the hardest, but once you get over that hump the rest seems easy. Out         of my 4 subtasks set I only finished about 3 of them. Fatigue set in and I didn't want to go any further. I noticed that setting a small amount of task is better than              setting a whole bunch for the sake of getting something done. </p>
+<p> Summary: Currently I am using a chrome extension called "100daysof.codes" (https://100daysof.codes/). This extension allows you to Set a main goal of your journey and then set specific goals for each day; you can also set subtasks for that day's goal. The first day is always the hardest, but once you get over that hump the rest seems easy. Out of my 4 subtasks set I only finished about 3 of them. Fatigue set in and I didn't want to go any further. I noticed that setting a small amount of task is better than setting a whole bunch for the sake of getting something done. </p>
 
 <p> The Marathon Continues </p>
 
