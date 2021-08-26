@@ -21,7 +21,7 @@
     <li> <a href=#day12> Day 12 </a>  I hate that JavaScript is Long  </li>
     <li> <a href=#day13> Day 13 </a> More JavaScript, but more project plans  </li>
     <li> <a href=#day14> Day 14 </a> Wake up (code), sleeping (code) </li>
-    <li> <a href=#day15> Day 15 </a> </li>
+    <li> <a href=#day15> Day 15 </a> Steele sharpen Steele </li>
     <li> <a href=#day16> Day 16 </a> </li>
     <li> <a href=#day17> Day 17 </a> </li>
     <li> <a href=#day18> Day 18 </a> </li>
@@ -292,11 +292,33 @@
 
 <hr>
 
-<h2 id="day15"> Day 14/100 | Date 08/25/2021 | </h2>
+<h2 id="day15"> Day 14/100 | Date 08/25/2021 | Steele Sharpen Steele </h2>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
 <p> Summary: </p>
 <figure>
   <figcaption> Task Completed </figcaption>
+  <figcaption> freeCodeCamp </figcaptio>
+  <ul>
+    <li> Understand String Immutability </li>
+    <li> Use Bracket Notation to Find the Nth Character in a String </li>
+    <li> Use Bracket Notation to Find the last character in a string </li>
+    <li> Use Bracket Notation to Find the Nth to Last Character in a String </li>
+    <li> Word Blanks </li>
+    <li> Store Multiple Values in one Variable using JavaScript Arrays </li>
+    <li> Nest one Array within Another Array </li>
+    <li> Access Array Data with Indexes </li>
+    <li> Modify Array Data with Indexes </li>
+    <li> Access Multi-Dimensional Arrays with Indexs </li>
+  </ul>
+  <figcaption> The Web Developer Bootcamp 2021 </figcaption>
+  <ul>
+    <li> CSS: The Very Basics </li>
+    <li> The World of CSS Selectors </li>
+    <li> The CSS Box Model </li>
+    <li> Other Assorted Useful CSS Properties </li>
+    <li> Responsive CSS & Flexbox </li>
+    <li> Pricing Panel Project </li>
+  </ul>
 </figure>
 
   
