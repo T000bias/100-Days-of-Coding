@@ -324,11 +324,6 @@
   <figcaption> The Web Developer Bootcamp 2021 </figcaption>
   <ul>
     <li> CSS: The Very Basics </li>
-    <li> The World of CSS Selectors </li>
-    <li> The CSS Box Model </li>
-    <li> Other Assorted Useful CSS Properties </li>
-    <li> Responsive CSS & Flexbox </li>
-    <li> Pricing Panel Project </li>
   </ul>
 </figure>
 
