@@ -228,8 +228,9 @@
 <p> Another day of doing the freeCodeCamp (I see why they spell the name out like this, IYKYK) basic JavaScript modules and did some reading of simple JavaScript from "If Hemingway Wrote JavaScript". I finished the day off with a YouTube video on Front-End engineering just to get a lay of the land. Hopefully by my next log in I will have a navbar at the top of this repository that will allow navigation to all days. This not gives me practice on making navigation bars, but also confindence in my abilities. </p>
 <figure>
   <figcaption> Tasks Completed </figcaption>
+  <br>
+  <figcaption> <b>freeCodeCamp</b> </figcaption>
   <ul>
-    <figcaption> <b>freeCodeCamp</b> </figcaption>
     <li> Divide One Number by Another with JavaScript </li>
     <li> Increment a Number with JavaScript </li>
     <li> Decrement a Number with JavaScript </li>
@@ -267,6 +268,7 @@
 
 <figure>
   <figcaption> Task Completed </figcaption>
+  <br>
   <figcaption> freeCodeCamp </figcaption>
   <ul>
     <li> Declare String Variables </li>
@@ -297,6 +299,7 @@
 <p> Summary: </p>
 <figure>
   <figcaption> Task Completed </figcaption>
+  <br>
   <figcaption> freeCodeCamp </figcaptio>
   <ul>
     <li> Understand String Immutability </li>
