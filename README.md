@@ -22,6 +22,7 @@
     <li> <a href=#day13> Day 13: More JavaScript, but more project plans   </a></li>
     <li> <a href=#day14> Day 14: Wake up (code), sleeping (code)  </a></li>
     <li> <a href=#day15> Day 15: Steele Sharpen Steele  </a></li>
+    <!--
     <li> <a href=#day16> Day 16 </a> </li>
     <li> <a href=#day17> Day 17 </a> </li>
     <li> <a href=#day18> Day 18 </a> </li>
@@ -106,6 +107,7 @@
     <li> <a href=#day98> Day 98 </a> </li>
     <li> <a href=#day99> Day 99 </a> </li>
     <li> <a href=#day100> Day 100 </a> </li>
+-->
   </ul>
 </nav>
  
