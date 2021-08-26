@@ -7,20 +7,105 @@
 
 <nav>
   <ul>
-    <li> <a href=#day1> Day 1 </a> </li>
-    <li> <a href=#day2> Day 2 </a> </li>
-    <li> <a href=#day3> Day 3 </a> </li>
-    <li> <a href=#day4> Day 4 </a> </li>
-    <li> <a href=#day5> Day 5 </a> </li>
-    <li> <a href=#day6> Day 6 </a> </li>
-    <li> <a href=#day7> Day 7 </a> </li>
-    <li> <a href=#day8> Day 8 </a> </li>
-    <li> <a href=#day9> Day 9 </a> </li>
-    <li> <a href=#day10> Day 10 </a> </li>
-    <li> <a href=#day11> Day 11 </a> </li>
-    <li> <a href=#day12> Day 12 </a> </li>
-    <li> <a href=#day13> Day 13 </a> </li>
-    <li> <a href=#day14> Day 14 </a> </li>
+    <li> <a href=#day1> Day 1 </a> To You, 100 Days from Now </li>
+    <li> <a href=#day2> Day 2 </a> Perfect Practice makes Perfect </li>
+    <li> <a href=#day3> Day 3 </a> If its for free its for me!!! </li>
+    <li> <a href=#day4> Day 4 </a> I finally know what it feels like to be a programmer </li>
+    <li> <a href=#day5> Day 5 </a> I finally know what it feels like pt.2  </li>
+    <li> <a href=#day6> Day 6 </a> Wasted Time Could be Benificial  </li>
+    <li> <a href=#day7> Day 7 </a> CSS is Hard  </li>
+    <li> <a href=#day8> Day 8 </a></li>
+    <li> <a href=#day9> Day 9 </a> Work & Vacation   </li>
+    <li> <a href=#day10> Day 10 </a>  Networking is Important  </li>
+    <li> <a href=#day11> Day 11 </a>  Rough Roads Ahead </li>
+    <li> <a href=#day12> Day 12 </a>  I hate that JavaScript is Long  </li>
+    <li> <a href=#day13> Day 13 </a> More JavaScript, but more project plans  </li>
+    <li> <a href=#day14> Day 14 </a> Wake up (code), sleeping (code) </li>
+    <li> <a href=#day15> Day 15 </a> </li>
+    <li> <a href=#day16> Day 16 </a> </li>
+    <li> <a href=#day17> Day 17 </a> </li>
+    <li> <a href=#day18> Day 18 </a> </li>
+    <li> <a href=#day19> Day 19 </a> </li>
+    <li> <a href=#day20> Day 20 </a> </li>
+    <li> <a href=#day21> Day 21 </a> </li>
+    <li> <a href=#day22> Day 22 </a> </li>
+    <li> <a href=#day23> Day 23 </a> </li>
+    <li> <a href=#day24> Day 24 </a> </li>
+    <li> <a href=#day25> Day 25 </a> </li>
+    <li> <a href=#day27> Day 27 </a> </li>
+    <li> <a href=#day28> Day 28 </a> </li>
+    <li> <a href=#day29> Day 29 </a> </li>
+    <li> <a href=#day30> Day 30 </a> </li>
+    <li> <a href=#day31> Day 31 </a> </li>
+    <li> <a href=#day32> Day 32 </a> </li>
+    <li> <a href=#day33> Day 33 </a> </li>
+    <li> <a href=#day34> Day 34 </a> </li>
+    <li> <a href=#day35> Day 35 </a> </li>
+    <li> <a href=#day36> Day 36 </a> </li>
+    <li> <a href=#day37> Day 37 </a> </li>
+    <li> <a href=#day38> Day 38 </a> </li>
+    <li> <a href=#day39> Day 39 </a> </li>
+    <li> <a href=#day40> Day 40 </a> </li>
+    <li> <a href=#day41> Day 41 </a> </li>
+    <li> <a href=#day42> Day 42 </a> </li>
+    <li> <a href=#day43> Day 43 </a> </li>
+    <li> <a href=#day44> Day 44 </a> </li>
+    <li> <a href=#day45> Day 45 </a> </li>
+    <li> <a href=#day46> Day 46 </a> </li>
+    <li> <a href=#day47> Day 47 </a> </li>
+    <li> <a href=#day48> Day 48 </a> </li>
+    <li> <a href=#day49> Day 49 </a> </li>
+    <li> <a href=#day50> Day 50 </a> </li>
+    <li> <a href=#day51> Day 51 </a> </li>
+    <li> <a href=#day52> Day 52 </a> </li>
+    <li> <a href=#day53> Day 53 </a> </li>
+    <li> <a href=#day54> Day 54 </a> </li>
+    <li> <a href=#day55> Day 55 </a> </li>
+    <li> <a href=#day56> Day 56 </a> </li>
+    <li> <a href=#day57> Day 57 </a> </li>
+    <li> <a href=#day58> Day 58 </a> </li>
+    <li> <a href=#day59> Day 59 </a> </li>
+    <li> <a href=#day60> Day 60 </a> </li>
+    <li> <a href=#day61> Day 61 </a> </li>
+    <li> <a href=#day62> Day 62 </a> </li>
+    <li> <a href=#day63> Day 63 </a> </li>
+    <li> <a href=#day64> Day 64 </a> </li>
+    <li> <a href=#day65> Day 65 </a> </li>
+    <li> <a href=#day66> Day 66 </a> </li>
+    <li> <a href=#day67> Day 67 </a> </li>
+    <li> <a href=#day68> Day 68 </a> </li>
+    <li> <a href=#day69> Day 69 </a> </li>
+    <li> <a href=#day70> Day 70 </a> </li>
+    <li> <a href=#day71> Day 71 </a> </li>
+    <li> <a href=#day72> Day 72 </a> </li>
+    <li> <a href=#day73> Day 73 </a> </li>
+    <li> <a href=#day74> Day 74 </a> </li>
+    <li> <a href=#day75> Day 75 </a> </li>
+    <li> <a href=#day76> Day 76 </a> </li>
+    <li> <a href=#day77> Day 77 </a> </li>
+    <li> <a href=#day78> Day 78 </a> </li>
+    <li> <a href=#day79> Day 79 </a> </li>
+    <li> <a href=#day80> Day 80 </a> </li>
+    <li> <a href=#day81> Day 81 </a> </li>
+    <li> <a href=#day82> Day 82 </a> </li>
+    <li> <a href=#day83> Day 83 </a> </li>
+    <li> <a href=#day84> Day 84 </a> </li>
+    <li> <a href=#day85> Day 85 </a> </li>
+    <li> <a href=#day86> Day 86 </a> </li>
+    <li> <a href=#day87> Day 87 </a> </li>
+    <li> <a href=#day88> Day 88 </a> </li>
+    <li> <a href=#day89> Day 89 </a> </li>
+    <li> <a href=#day90> Day 90 </a> </li>
+    <li> <a href=#day91> Day 91 </a> </li>
+    <li> <a href=#day92> Day 92 </a> </li>
+    <li> <a href=#day93> Day 93 </a> </li>
+    <li> <a href=#day94> Day 94 </a> </li>
+    <li> <a href=#day95> Day 95 </a> </li>
+    <li> <a href=#day96> Day 96 </a> </li>
+    <li> <a href=#day97> Day 97 </a> </li>
+    <li> <a href=#day98> Day 98 </a> </li>
+    <li> <a href=#day99> Day 99 </a> </li>
+    <li> <a href=#day100> Day 100 </a> </li>
   </ul>
 </nav>
  
@@ -38,14 +123,14 @@
 
 <hr>
 
-<h2 id="day2">Day 2 / 100: Perfect Practice makes Perfect</h2>
+<h2 id="day2">Day 2 / 100: Perfect Practice makes Perfect </h2>
 <p> My <a href="https://twitter.com/Ui3er/status/1420209140278992898"> Tweet </a></p>
 <p>Summary: Nothing was really done today due to hardware issues, but an attempt was tried.</p>
 <p> The Marathon Continues </p>
 
 <hr>
 
-<h2 id="day3">Day 3/100: If its for free its for me!!!</h2>
+<h2 id="day3">Day 3/100: If its for free its for me!!! </h2>
 <p> My <a href="https://twitter.com/Ui3er/status/1420584636762271750"> Tweet </a> </p>
 <p>Summary: For the 100th time, I restarted my progress in Freecodecamp just to have a fresh start. So far all I did was the HTML & HTML5 section in freecodecamp. A good note taking note app to use with coding is remnote (https://www.remnote.io/knowledge-base). You can create a code section that color codes and indents any code you put inside it. This is my first time using it so we will see if it comes in handy further down the line. </p>
 <img src="https://user-images.githubusercontent.com/28234609/127427084-f11c8bcc-8986-41a3-95be-f4642908159d.png" height="50%" width="50%">
@@ -62,7 +147,7 @@
 
 <hr>
 
-<h2 id="day5"> Day 5/100: I finally know what it feels like </h2>
+<h2 id="day5"> Day 5/100: I finally know what it feels like to be a programmer </h2>
 <p> My <a href="https://twitter.com/Ui3er/status/1420584636762271750"> Tweet </a> </p>
 
 <p> Summary: First, I was accepted to Resilent Coders Bootcamp for their co-hort of 2021. Even though I will be getting trained how to be a software engineer I will still be updating my 100 days of code. Today showed me that copying code might not always yield the same result. For the first project apart of the "10 Mega Websites" wasn't working for me even though I copied the code exact. The first error on my part was putting the script outside of the body but even with that things still were not working properly. On top of that I completed some of Freecodecamp's "Applied Visual Design." </p>
@@ -138,7 +223,7 @@
 
 <hr>
 
-<h2 id="day13"> Day 13/100 | Date 08/24/2021 | More JavaScript, but more projects </h2>
+<h2 id="day13"> Day 13/100 | Date 08/24/2021 | More JavaScript, but more project plans </h2>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
 <p> Another day of doing the freeCodeCamp (I see why they spell the name out like this, IYKYK) basic JavaScript modules and did some reading of simple JavaScript from "If Hemingway Wrote JavaScript". I finished the day off with a YouTube video on Front-End engineering just to get a lay of the land. Hopefully by my next log in I will have a navbar at the top of this repository that will allow navigation to all days. This not gives me practice on making navigation bars, but also confindence in my abilities. </p>
 <figure>
@@ -178,7 +263,7 @@
 
 <h2 id="day14"> Day 14/100 | Date 08/25/2021 | Wake up (code), sleeping (code)  </h2>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
-<p> Summary: </p>
+<p> Summary: Read "The Great Divide" from Chris Coyier. It seemed as though that just knowing HTML and CSS is not enough to be a front-end web developer, but having some mastery over JavaScript is more valuable than having a properly built website. To me,  JavaScript seems like a typical programming language like python, but it doesn't seem like that when I do the modules from freeCodeCamp. The plan right now is going through some changes and by tommorow I can show a detailed approach I will take from here on out.</p>
 
 <figure>
   <figcaption> Task Completed </figcaption>
@@ -197,20 +282,23 @@
   </ul>
   <figcaption> Front-End Developer Handbook </figcaption>
   <ul>
-    <li> 2.1 - How Front-End Developers are Made </li>
     <li> 2.2 - Front-End Job Titles </li>
-    <li> 2.3 - Baseline Web Technologies Employed by Front-End Developers  </li>
-    <li> 2.4 - Potential Front-End Developers Skills </li>
-    <li> 2.5 - Front-End Developers Develop For... </li>
-    <li> 2.6 - Front-End on a Team </li>
-    <li> 2.7 - Generalist/Full-Stack Myth </li>
-    <li> 2.8 - Front-End Interviews </li>
-    <li> 2.1 - Front-End Job Boards </li>
+  </ul>
+  <figcaption> Articles </figcaption>
+  <ul>
+    <li> <a href="https://css-tricks.com/the-great-divide/"> The Great Divide </a> </li>
   </ul>
 </figure>
 
-
 <hr>
+
+<h2 id="day15"> Day 14/100 | Date 08/25/2021 | </h2>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: </p>
+<figure>
+  <figcaption> Task Completed </figcaption>
+</figure>
+
   
 
 
