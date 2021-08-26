@@ -246,11 +246,16 @@
     <li> Updated GitHub 100DaysOfCode repository </li>
     <figcaption> <b>If Hemingway wrote JavaScript</b> </figcaption>
     <li>Ernest Hemingway</li>
+  </ul>
     <figcaption> <b>Front-End Developer Handbook 2019</b> </figcaption>
+     <ul>
     <li> Chapter 1 </li>
     <li> Chapter 2 (incomplete) </li>
+  </ul>
     <figcaption> <b>YouTube</b> </figcaption>
+  <ul>
     <li> <a href="https://www.youtube.com/watch?v=Lsg84NtJbmI">So, You Want to be a Front-End Engineer</a></li>
+  </ul>
   </ul>
 </figure>
     
@@ -300,7 +305,8 @@
 <figure>
   <figcaption> Task Completed </figcaption>
   <br>
-  <figcaption> freeCodeCamp </figcaptio>
+  <figcaption> freeCodeCamp </figcaption>
+  <img src="https://user-images.githubusercontent.com/28234609/131018321-64a90781-932e-47d7-99bb-df0f9f4d0280.png" width="30%" height="30%" >
   <ul>
     <li> Understand String Immutability </li>
     <li> Use Bracket Notation to Find the Nth Character in a String </li>
