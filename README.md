@@ -22,8 +22,8 @@
     <li> <a href=#day13> Day 13: More JavaScript, but more project plans   </a></li>
     <li> <a href=#day14> Day 14: Wake up (code), sleeping (code)  </a></li>
     <li> <a href=#day15> Day 15: Steele Sharpen Steele  </a></li>
+    <li> <a href=#day16> Day 16 </a> On your mark, get set, code!!!</li>
     <!--
-    <li> <a href=#day16> Day 16 </a> </li>
     <li> <a href=#day17> Day 17 </a> </li>
     <li> <a href=#day18> Day 18 </a> </li>
     <li> <a href=#day19> Day 19 </a> </li>
@@ -329,7 +329,15 @@
   </ul>
 </figure>
 <hr>
-
+<h2 id="day16"> Day 16/100 | Date 08/27/2021 | On your mark, get set, code!!! </h2>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: </p>
+<figure>
+  <figcaption> Task(s) Completed </figcaption>
+  <figcaption> freeCodeCamp: Basic JavaScript </figcaption>
+  <ul>
+  </ul>
+</figure>
 
   
 
