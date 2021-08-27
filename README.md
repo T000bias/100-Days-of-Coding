@@ -1,6 +1,7 @@
 <h1> Repository Goals </h1>
 <ul>
   <li> If possible, add icons to applicable elements. (i.e. figcaption elements in the list) </li>
+  <li> Set Navbar in intervals of 10 (1-10, 11-20 etc...); still debating on this update. </li>
 </ul>
 
 <hr>
@@ -22,7 +23,7 @@
     <li> <a href=#day13> Day 13: More JavaScript, but more project plans   </a></li>
     <li> <a href=#day14> Day 14: Wake up (code), sleeping (code)  </a></li>
     <li> <a href=#day15> Day 15: Steele Sharpen Steele  </a></li>
-    <li> <a href=#day16> Day 16 </a> On your mark, get set, code!!!</li>
+    <li> <a href=#day16> Day 16: On your mark, get set, code!!! </a></li>
     <!--
     <li> <a href=#day17> Day 17 </a> </li>
     <li> <a href=#day18> Day 18 </a> </li>
