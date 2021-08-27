@@ -301,9 +301,9 @@
 
 <hr>
 
-<h2 id="day15"> Day 14/100 | Date 08/25/2021 | Steele Sharpen Steele </h2>
+<h2 id="day15"> Day 15/100 | Date 08/26/2021 | Steele Sharpen Steele </h2>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
-<p> Summary: </p>
+<p> Summary: Did my usually 10 JavaScript modules and decided to do <a href="https://www.udemy.com/course-dashboard-redirect/?course_id=625204">Colt Steele's Web Developer 2021 Bootcamp course on udemy</a>. I bought this course awhile ago, but felt overwhelmed by all the content, but now that I feel more comfortable with web development I think its time to tackle this course. </p>
 <figure>
   <figcaption> Task Completed </figcaption>
   <br>
@@ -322,10 +322,14 @@
     <li> Access Multi-Dimensional Arrays with Indexs </li>
   </ul>
   <figcaption> The Web Developer Bootcamp 2021 </figcaption>
+  <img src="https://user-images.githubusercontent.com/28234609/131068777-bb7f944c-acfb-4692-ad35-d1e0118e8f28.png">
+
   <ul>
     <li> CSS: The Very Basics </li>
   </ul>
 </figure>
+<hr>
+
 
   
 
