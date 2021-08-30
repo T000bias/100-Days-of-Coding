@@ -330,7 +330,7 @@
   </ul>
 </figure>
 <hr>
-<h2 id="day16"> Day 16/100 | Date 08/27/2021 | On your mark, get set, code!!! </h2>
+<h2 id="day16"> Day 16/100 | Date 08/30/2021 | On your mark, get set, code!!! </h2>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
 <p> Summary: </p>
 <figure>
