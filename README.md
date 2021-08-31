@@ -332,11 +332,12 @@
 <hr>
 <h2 id="day16"> Day 16/100 | Date 08/30/2021 | On your mark, get set, code!!! </h2>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
-<p> Summary: </p>
+<p> Summary: Did 30 more modules of freeCodeCamp's Basic JavaScript. Hopefully, I can learn all the basics of JavaScript and start planning out apps that only need the 3 core technologies</p>
 <figure>
   <figcaption> Task(s) Completed </figcaption>
   <figcaption> freeCodeCamp: Basic JavaScript </figcaption>
   <ul>
+    <li></li>
   </ul>
 </figure>
 
