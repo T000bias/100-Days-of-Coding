@@ -392,36 +392,63 @@
   <br>
   <figcaption> freeCodeCamp </figcaption>
   <ul>
-    <li> <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups">Using Objects for Lookups</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties">Testing Objects for Properties</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects">Manipulating Complex Objects</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects">Accessing Nested Objects</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays">Accessing Nested Arrays</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection">Record Collection</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops">Iterate with JavaScript While Loops</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops"> Iterate with JavaScript For Loops</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-odd-numbers-with-a-for-loop">Iterate Odd Numbers with a For Loop</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop">Count Backwards With a For Loop</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop">Iterate Through an Array with a For Loop</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops">Nested For Loops</li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops">Iterate with JavaScript Do...While Loops</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion">Replace Loops using Recursion</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup">Profile Lookup</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript">Generate Random Fractions with JavaScript</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-with-javascript">Generate Random Whole Numbers with JavaScript</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-within-a-range">Generate Random Whole Numbers within a Range</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function">Use the parseInt Function</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix">Use the parseInt Function with a Radix</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator">Use the Conditional (Ternary) Operator</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators">Use Multiple Conditional (Ternary) Operators</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown">Use Recursion to Create a Countdown</a></li>
-    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers">Use Recursion to Create a Range of Numbers</a></li>
+    <li> <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups" target="
+_#">Using Objects for Lookups</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties" target="
+_#">Testing Objects for Properties</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects" target="
+_#">Manipulating Complex Objects</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects" target="
+_#">Accessing Nested Objects</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays" target="
+_#">Accessing Nested Arrays</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection" target="
+_#">Record Collection</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops" target="
+_#">Iterate with JavaScript While Loops</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops" target="
+_#"> Iterate with JavaScript For Loops</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-odd-numbers-with-a-for-loop" target="
+_#">Iterate Odd Numbers with a For Loop</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop" target="
+_#">Count Backwards With a For Loop</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop" target="
+_#">Iterate Through an Array with a For Loop</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops" target="
+_#>Nested For Loops</li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops" target="
+_#">Iterate with JavaScript Do...While Loops</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion" target="
+_#">Replace Loops using Recursion</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup" target="
+_#">Profile Lookup</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript" target="
+_#>Generate Random Fractions with JavaScript</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-with-javascript" target="
+_#">Generate Random Whole Numbers with JavaScript</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-within-a-range" target="
+_#">Generate Random Whole Numbers within a Range</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function" target="
+_#">Use the parseInt Function</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix" target="
+_#">Use the parseInt Function with a Radix</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator" target="
+_#>Use the Conditional (Ternary) Operator</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators" target="
+_#">Use Multiple Conditional (Ternary) Operators</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown" target="
+_#>Use Recursion to Create a Countdown</a></li>
+    <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers" target="
+_#">Use Recursion to Create a Range of Numbers</a></li>
   </ul>
   <figcaption> JavaScript and JQuery Made Easy </figcaption>
   <ul>
-    <li> <a href="https://stackskills.com/courses/68579/lectures/1002300"> Elements and Attributes </a> </li>
-    <li> <a href="https://stackskills.com/courses/68579/lectures/1002301"> Events </a> </li>
-    <li> <a href="https://stackskills.com/courses/68579/lectures/1002302"> Function Calculator </a> </li>
+    <li> <a href="https://stackskills.com/courses/68579/lectures/1002300" target="
+_#"> Elements and Attributes </a> </li>
+    <li> <a href="https://stackskills.com/courses/68579/lectures/1002301" target="
+_#"> Events </a> </li>
+    <li> <a href="https://stackskills.com/courses/68579/lectures/1002302" target="
+_#"> Function Calculator </a> </li>
   </ul>
 </figure>
 
