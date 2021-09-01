@@ -26,8 +26,9 @@
     <li> <a href=#day15> Day 15: Steele Sharpen Steele  </a></li>
     <li> <a href=#day16> Day 16: On your mark, get set, code!!! </a></li>
     <li> <a href=#day17> Day 17: You can't understand it all </a> </li>
-    <!--
-    <li> <a href=#day18> Day 18 </a> </li>
+    <li> <a href=#day18> Day 18: </a> </li>
+        <!--
+
     <li> <a href=#day19> Day 19 </a> </li>
     <li> <a href=#day20> Day 20 </a> </li>
     <li> <a href=#day21> Day 21 </a> </li>
@@ -111,10 +112,21 @@
     <li> <a href=#day100> Day 100 </a> </li>
 -->
   </ul>
+  
+<hr>
+  
+</nav>
+<nav>
+  <table>
+    <tr>
+      <th> Day 1 </th>
+    </tr>
+    <tr>
+      <td> To You 100, Days from Now </td>
+    </tr>
+  </table>
 </nav>
  
-  
-
 <hr>
 
 <h2 id="day1">Day 1 / 100: To You, 100 Days from Now</h2>
