@@ -1,132 +1,134 @@
-<h1> Repository Goals </h1>
+<h1> Repository Goals (To Do List) </h1>
 <ul>
   <li> If possible, add icons to applicable elements. (i.e. figcaption elements in the list) </li>
-  <li> Set Navbar in intervals of 10 (1-10, 11-20 etc...); still debating on this update. </li>
   <li> Have all completed task as links so that if anyone wants to see what exactly I did they can go to it or at least try it for themselves. </li>
+  <li> Have a real nav bar that will not only send you to specific days, but also to a project section, social media section etc...</li>
 </ul>
 
 <hr>
 
 <nav>
-  <ul>
-    <li> <a href=#day1> Day 1: To You, 100 Days from Now </a></li>
-    <li> <a href=#day2> Day 2: Perfect Practice makes Perfect  </a></li>
-    <li> <a href=#day3> Day 3: If its for free its for me!!! </a></li>
-    <li> <a href=#day4> Day 4: </a></li>
-    <li> <a href=#day5> Day 5: I finally know what it feels like to be a programmer  </a>  </li>
-    <li> <a href=#day6> Day 6: I finally know what it feels like pt.2</a></li>
-    <li> <a href=#day7> Day 7: Wasted Time Could be Benificial   </a></li>
-    <li> <a href=#day8> Day 8: CSS is Hard   </a></li>
-    <li> <a href=#day9> Day 9: Work & Vacation    </a></li>
-    <li> <a href=#day10> Day 10: Networking is Important   </a></li>
-    <li> <a href=#day11> Day 11: Rough Roads Ahead  </a></li>
-    <li> <a href=#day12> Day 12: I hate that JavaScript is Long   </a></li>
-    <li> <a href=#day13> Day 13: More JavaScript, but more project plans   </a></li>
-    <li> <a href=#day14> Day 14: Wake up (code), sleeping (code)  </a></li>
-    <li> <a href=#day15> Day 15: Steele Sharpen Steele  </a></li>
-    <li> <a href=#day16> Day 16: On your mark, get set, code!!! </a></li>
-    <li> <a href=#day17> Day 17: You can't understand it all </a> </li>
-    <li> <a href=#day18> Day 18: </a> </li>
-        <!--
-
-    <li> <a href=#day19> Day 19 </a> </li>
-    <li> <a href=#day20> Day 20 </a> </li>
-    <li> <a href=#day21> Day 21 </a> </li>
-    <li> <a href=#day22> Day 22 </a> </li>
-    <li> <a href=#day23> Day 23 </a> </li>
-    <li> <a href=#day24> Day 24 </a> </li>
-    <li> <a href=#day25> Day 25 </a> </li>
-    <li> <a href=#day27> Day 27 </a> </li>
-    <li> <a href=#day28> Day 28 </a> </li>
-    <li> <a href=#day29> Day 29 </a> </li>
-    <li> <a href=#day30> Day 30 </a> </li>
-    <li> <a href=#day31> Day 31 </a> </li>
-    <li> <a href=#day32> Day 32 </a> </li>
-    <li> <a href=#day33> Day 33 </a> </li>
-    <li> <a href=#day34> Day 34 </a> </li>
-    <li> <a href=#day35> Day 35 </a> </li>
-    <li> <a href=#day36> Day 36 </a> </li>
-    <li> <a href=#day37> Day 37 </a> </li>
-    <li> <a href=#day38> Day 38 </a> </li>
-    <li> <a href=#day39> Day 39 </a> </li>
-    <li> <a href=#day40> Day 40 </a> </li>
-    <li> <a href=#day41> Day 41 </a> </li>
-    <li> <a href=#day42> Day 42 </a> </li>
-    <li> <a href=#day43> Day 43 </a> </li>
-    <li> <a href=#day44> Day 44 </a> </li>
-    <li> <a href=#day45> Day 45 </a> </li>
-    <li> <a href=#day46> Day 46 </a> </li>
-    <li> <a href=#day47> Day 47 </a> </li>
-    <li> <a href=#day48> Day 48 </a> </li>
-    <li> <a href=#day49> Day 49 </a> </li>
-    <li> <a href=#day50> Day 50 </a> </li>
-    <li> <a href=#day51> Day 51 </a> </li>
-    <li> <a href=#day52> Day 52 </a> </li>
-    <li> <a href=#day53> Day 53 </a> </li>
-    <li> <a href=#day54> Day 54 </a> </li>
-    <li> <a href=#day55> Day 55 </a> </li>
-    <li> <a href=#day56> Day 56 </a> </li>
-    <li> <a href=#day57> Day 57 </a> </li>
-    <li> <a href=#day58> Day 58 </a> </li>
-    <li> <a href=#day59> Day 59 </a> </li>
-    <li> <a href=#day60> Day 60 </a> </li>
-    <li> <a href=#day61> Day 61 </a> </li>
-    <li> <a href=#day62> Day 62 </a> </li>
-    <li> <a href=#day63> Day 63 </a> </li>
-    <li> <a href=#day64> Day 64 </a> </li>
-    <li> <a href=#day65> Day 65 </a> </li>
-    <li> <a href=#day66> Day 66 </a> </li>
-    <li> <a href=#day67> Day 67 </a> </li>
-    <li> <a href=#day68> Day 68 </a> </li>
-    <li> <a href=#day69> Day 69 </a> </li>
-    <li> <a href=#day70> Day 70 </a> </li>
-    <li> <a href=#day71> Day 71 </a> </li>
-    <li> <a href=#day72> Day 72 </a> </li>
-    <li> <a href=#day73> Day 73 </a> </li>
-    <li> <a href=#day74> Day 74 </a> </li>
-    <li> <a href=#day75> Day 75 </a> </li>
-    <li> <a href=#day76> Day 76 </a> </li>
-    <li> <a href=#day77> Day 77 </a> </li>
-    <li> <a href=#day78> Day 78 </a> </li>
-    <li> <a href=#day79> Day 79 </a> </li>
-    <li> <a href=#day80> Day 80 </a> </li>
-    <li> <a href=#day81> Day 81 </a> </li>
-    <li> <a href=#day82> Day 82 </a> </li>
-    <li> <a href=#day83> Day 83 </a> </li>
-    <li> <a href=#day84> Day 84 </a> </li>
-    <li> <a href=#day85> Day 85 </a> </li>
-    <li> <a href=#day86> Day 86 </a> </li>
-    <li> <a href=#day87> Day 87 </a> </li>
-    <li> <a href=#day88> Day 88 </a> </li>
-    <li> <a href=#day89> Day 89 </a> </li>
-    <li> <a href=#day90> Day 90 </a> </li>
-    <li> <a href=#day91> Day 91 </a> </li>
-    <li> <a href=#day92> Day 92 </a> </li>
-    <li> <a href=#day93> Day 93 </a> </li>
-    <li> <a href=#day94> Day 94 </a> </li>
-    <li> <a href=#day95> Day 95 </a> </li>
-    <li> <a href=#day96> Day 96 </a> </li>
-    <li> <a href=#day97> Day 97 </a> </li>
-    <li> <a href=#day98> Day 98 </a> </li>
-    <li> <a href=#day99> Day 99 </a> </li>
-    <li> <a href=#day100> Day 100 </a> </li>
--->
-  </ul>
-  
-<hr>
-  
-</nav>
-<nav>
   <table>
-    <tr>
-      <th> Day 1 </th>
-    </tr>
-    <tr>
-      <td> To You 100, Days from Now </td>
-    </tr>
+      <tr>
+        <th> <a href=#day1> Day 1 </a> </th>
+        <th> <a href=#day2> Day 2 </a> </th>
+        <th> <a href=#day3> Day 3 </a> </th>
+        <th> <a href=#day4> Day 4 </a> </th>
+        <th> <a href=#day5> Day 5 </a> </th>
+        <th> <a href=#day6> Day 6 </a> </th>
+        <th> <a href=#day7> Day 7 </a> </th>
+        <th> <a href=#day8> Day 8 </a> </th>
+        <th> <a href=#day9> Day 9 </a> </th>
+        <th> <a href=#day10> Day 10 </a> </th>
+        <th> <a href=#day11> Day 11 </a> </th>
+        <th> <a href=#day12> Day 12 </a> </th>
+        <th> <a href=#day13> Day 13 </a> </th>
+        <th> <a href=#day14> Day 14 </a> </th>
+      </tr>
+      <tr>
+        <th> <a href=#day15> Day 15 </a> </th>
+        <th> <a href=#day16> Day 16 </a> </th>
+        <th> <a href=#day17> Day 17 </a> </th>
+        <th> <a href=#day18> Day 18 </a> </th>
+        <th> <a href=#day19> Day 19 </a> </th>
+        <th> <a href=#day20> Day 20 </a> </th>
+        <th> <a href=#day21> Day 21 </a> </th>
+        <th> <a href=#day22> Day 22 </a> </th>
+        <th> <a href=#day23> Day 23 </a> </th>
+        <th> <a href=#day24> Day 24 </a> </th>
+        <th> <a href=#day25> Day 25 </a> </th>
+        <th> <a href=#day26> Day 26 </a> </th>
+        <th> <a href=#day27> Day 27 </a> </th>
+        <th> <a href=#day28> Day 28 </a> </th>
+      </tr>
+      <tr>
+        <th> <a href=#day29> Day 29 </a> </th>
+        <th> <a href=#day30> Day 30 </a> </th>
+        <th> <a href=#day31> Day 31 </a> </th>
+        <th> <a href=#day32> Day 32 </a> </th>
+        <th> <a href=#day33> Day 33 </a> </th>
+        <th> <a href=#day34> Day 34 </a> </th>
+        <th> <a href=#day35> Day 35 </a> </th>
+        <th> <a href=#day36> Day 36 </a> </th>
+        <th> <a href=#day37> Day 37 </a> </th>
+        <th> <a href=#day38> Day 38 </a> </th>
+        <th> <a href=#day39> Day 39 </a> </th>
+        <th> <a href=#day40> Day 40 </a> </th>
+        <th> <a href=#day41> Day 41 </a> </th>
+        <th> <a href=#day42> Day 42 </a> </th>
+      </tr>
+      <tr>
+        <th> <a href=#day43> Day 43 </a> </th>
+        <th> <a href=#day44> Day 44 </a> </th>
+        <th> <a href=#day45> Day 45 </a> </th>
+        <th> <a href=#day46> Day 46 </a> </th>
+        <th> <a href=#day47> Day 47 </a> </th>
+        <th> <a href=#day48> Day 48 </a> </th>
+        <th> <a href=#day49> Day 49 </a> </th>
+        <th> <a href=#day50> Day 50 </a> </th>
+        <th> <a href=#day51> Day 51 </a> </th>
+        <th> <a href=#day52> Day 52 </a> </th>
+        <th> <a href=#day53> Day 53 </a> </th>
+        <th> <a href=#day54> Day 54 </a> </th>
+        <th> <a href=#day55> Day 55 </a> </th>
+        <th> <a href=#day56> Day 56 </a> </th>
+      </tr>
+       <tr>
+        <th> <a href=#day57> Day 57 </a> </th>
+        <th> <a href=#day58> Day 58 </a> </th>
+        <th> <a href=#day59> Day 59 </a> </th>
+        <th> <a href=#day60> Day 60 </a> </th>
+        <th> <a href=#day61> Day 61 </a> </th>
+        <th> <a href=#day62> Day 62 </a> </th>
+        <th> <a href=#day63> Day 63 </a> </th>
+        <th> <a href=#day64> Day 64 </a> </th>
+        <th> <a href=#day65> Day 65 </a> </th>
+        <th> <a href=#day66> Day 66 </a> </th>
+        <th> <a href=#day67> Day 67 </a> </th>
+        <th> <a href=#day68> Day 68 </a> </th>
+        <th> <a href=#day69> Day 69 </a> </th>
+        <th> <a href=#day70> Day 70 </a> </th>
+      </tr>
+      <tr>
+        <th> <a href=#day71> Day 71 </a> </th>
+        <th> <a href=#day72> Day 72 </a> </th>
+        <th> <a href=#day73> Day 73 </a> </th>
+        <th> <a href=#day74> Day 74 </a> </th>
+        <th> <a href=#day75> Day 75 </a> </th>
+        <th> <a href=#day76> Day 76 </a> </th>
+        <th> <a href=#day77> Day 77 </a> </th>
+        <th> <a href=#day78> Day 78 </a> </th>
+        <th> <a href=#day79> Day 79 </a> </th>
+        <th> <a href=#day80> Day 80 </a> </th>
+        <th> <a href=#day81> Day 81 </a> </th>
+        <th> <a href=#day82> Day 82 </a> </th>
+        <th> <a href=#day83> Day 83 </a> </th>
+        <th> <a href=#day84> Day 84 </a> </th>
+      </tr>
+      <tr>
+        <th> <a href=#day85> Day 85 </a> </th>
+        <th> <a href=#day86> Day 86 </a> </th>
+        <th> <a href=#day87> Day 87 </a> </th>
+        <th> <a href=#day88> Day 88 </a> </th>
+        <th> <a href=#day89> Day 89 </a> </th>
+        <th> <a href=#day90> Day 90 </a> </th>
+        <th> <a href=#day91> Day 91 </a> </th>
+        <th> <a href=#day92> Day 92 </a> </th>
+        <th> <a href=#day93> Day 93 </a> </th>
+        <th> <a href=#day94> Day 94 </a> </th>
+        <th> <a href=#day95> Day 95 </a> </th>
+        <th> <a href=#day96> Day 96 </a> </th>
+        <th> <a href=#day97> Day 97 </a> </th>
+        <th> <a href=#day98> Day 98 </a> </th>
+      </tr>
+      <tr>
+        <th> <a href=#day99> Day 99 </a> </th>
+        <th> <a href=#day100> Day 100 </a> </th>
+      </tr>
   </table>
 </nav>
- 
+
+
 <hr>
 
 <h2 id="day1">Day 1 / 100: To You, 100 Days from Now</h2>
@@ -360,6 +362,7 @@
 <p> Summary: Did more JavaScript basics, still have 20+ modules to go thru, but once thats done I can move on to building projects using the 3 core technologies. </p>
 <figure>
   <figcaption> Task(s) Completed </figcaption>
+  <br>
   <figcaption> freeCodeCamp: Basic JavaScript </figcaption>
   <ul>
     <li>Golf Code</li>
@@ -380,6 +383,40 @@
   </ul>
 </figure>
 <hr>
+
+<h2 id="day18"> Day 18/100 | Date 09/01/2021 | It's finally over, for today </h2>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: </p>
+<figure>
+  <figcaption> Task(s) Completed </figcaption>
+  <br>
+  <figcaption> freeCodeCamp </figcaption>
+  <ul>
+    <li>Using Objects for Lookups</li>
+    <li>Testing Objects for Properties</li>
+    <li>Manipulating Complex Objects</li>
+    <li>Accessing Nested Objects</li>
+    <li>Accessing Nested Arrays</li>
+    <li>Record Collection</li>
+    <li>Iterate with JavaScript While Loops</li>
+    <li>Iterate Odd Numbers with a For Loop</li>
+    <li>Count Backwards With a For Loop</li>
+    <li>Iterate Through an Array with a For Loop</li>
+    <li>Nested For Loops</li>
+    <li>Iterate with JavaScript Do...While Loops</li>
+    <li>Replace Loops using Recursion</li>
+    <li>Profile Lookup</li>
+    <li>Generate Random Fractions with JavaScript</li>
+    <li>Generate Random Whole Numbers with JavaScript</li>
+    <li>Generate Random Whole Numbers within a Range</li>
+    <li>Use the parseInt Function</li>
+    <li>Use the parseInt Function with a Radix</li>
+    <li>Use the Conditional (Ternary) Operator</li>
+    <li>Use Multiple Conditional (Ternary) Operators</li>
+    <li>Use Recursion to Create a Countdown</li>
+    <li>Use Recursion to Create a Range of Numbers</li>
+  </ul>
+</figure>
 
   
 
