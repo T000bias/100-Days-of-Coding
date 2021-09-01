@@ -2,6 +2,7 @@
 <ul>
   <li> If possible, add icons to applicable elements. (i.e. figcaption elements in the list) </li>
   <li> Set Navbar in intervals of 10 (1-10, 11-20 etc...); still debating on this update. </li>
+  <li> Have all completed task as links so that if anyone wants to see what exactly I did they can go to it or at least try it for themselves. </li>
 </ul>
 
 <hr>
@@ -344,12 +345,26 @@
 
 <h2 id="day17"> Day 17/100 | Date 08/31/2021 | You can't understand it all </h2>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
-<p> Summary: </p>
+<p> Summary: Did more JavaScript basics, still have 20+ modules to go thru, but once thats done I can move on to building projects using the 3 core technologies. </p>
 <figure>
   <figcaption> Task(s) Completed </figcaption>
   <figcaption> freeCodeCamp: Basic JavaScript </figcaption>
   <ul>
-    <li></li>
+    <li>Golf Code</li>
+    <li>Selecting from Many Options with Switch Statements</li>
+    <li>Adding a Default Option in Switch Statements</li>
+    <li>Multiple Identical Options in Switch Statements</li>
+    <li>Replacing If Else Chains with Switch</li>
+    <li>Returning Boolean Values from Functions</li>
+    <li>Return Early Pattern for Functions</li>
+    <li>Counting Cards</li>
+    <li>Build JavaScript Objects</li>
+    <li>Accessing Objects Properties with Dot Notation</li>
+    <li>Accessing Object Properties with Bracket Notation</li>
+    <li>Accessing Object Properties with Variables</li>
+    <li>Updating Object Properties</li>
+    <li>Add New Properties to a JavaScript Object</li>
+    <li>Delete Properties from a JavaScript Object</li>
   </ul>
 </figure>
 <hr>
