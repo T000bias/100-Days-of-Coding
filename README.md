@@ -451,6 +451,85 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
     <li> <a href="https://stackskills.com/courses/3613/lectures/74621" target="_blank">Changing the text in JavaScript</a>  </li>
   </ul>
 </figure>
+<hr>
+
+<h2 id="day19"> Day 19/100 | Date 09/02/2021 | Review & Learn </h2>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: </p>
+<figure>
+  <figcaption> Completed Task(s)</figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021 </figcaption>
+  <!-- Image of progress here -->
+  <ul>
+    <li> <a href="https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/21930182#overview" target="_blank"> What Matters in This Section </a> </li>
+    <li> <a href="" target="_blank"> Why JavaScript is Awesome </a> </li>
+    <li> <a href="" target="_blank"> Primitives & The Console </a> </li>
+    <li> <a href="" target="_blank"> JavaScript Numbers </a> </li>
+    <li> <a href="" target="_blank"> WTF is NaN </a> </li>
+    <li> <a href="" target="_blank"> Quick Numbers Quiz </a> </li>
+    <li> <a href="" target="_blank"> Variables & Let </a> </li>
+    <li> <a href="" target="_blank"> Coding Exercise 15: Our First Variables Exercise </a> </li>
+    <li> <a href="" target="_blank"> Updating Variables </a> </li>
+    <li> <a href="" target="_blank"> Const & Var </a> </li>
+    <li> <a href="" target="_blank"> Quiz 3: Variables Quiz </a> </li>
+    <li> <a href="" target="_blank"> Booleans </a> </li>
+    <li> <a href="" target="_blank"> Variable Naming and Conventions </a> </li>
+    <li> <a href="" target="_blank"> Quiz 4: Quick Variable Quiz </a> </li>
+  </ul>
+  <figcaption> freeCodeCamp </figcaption>
+  <!-- Image of progress here -->
+  <ul>
+    <li> <a href="" target="_blank"> Explore Differences Between the var and let Keywords </a> </li>
+    <li> <a href="" target="_blank"> Compare Scopes of the var and let Keywords </a> </li>
+    <li> <a href="" target="_blank"> Declare a Read-Only Variable with the const Keyword </a> </li>
+    <li> <a href="" target="_blank"> Mutate an Array Declared with const </a> </li>
+    <li> <a href="" target="_blank"> Prevent Object Mutation </a> </li>
+    <li> <a href="" target="_blank"> Use Arrow Functions to Write Concise Anonymous Functions </a> </li>
+    <li> <a href="" target="_blank"> Set Default Parameters for Your Functions </a> </li>
+    <li> <a href="" target="_blank"> Use the Rest Parameter with Function Parameters </a> </li>
+    <li> <a href="" target="_blank"> Use the spread Operator to Evaluate Arrays In-Place </a> </li>
+    <li> <a href="" target="_blank"> Use Destructuring Assignment to Extract Values from Objects </a> </li>
+    <li> <a href="" target="_blank"> Use Destructuring Assignment to Assign Variables from Nested Objects </a> </li>
+  </ul>
+  <figcaption> Leveling up to ES6 </figcaption>
+   <!-- Image of progress here -->
+  <ul>
+    <li> <a href="" target="_blank"> Introduction  </a> </li>
+    <li> <a href="" target="_blank"> Setup </a> </li>
+    <li> <a href="" target="_blank">  Const </a> </li>
+    <li> <a href="" target="_blank">  Let </a> </li>
+    <ul>
+      <li> <a href="" target="_blank"> Let and Const Quiz </a> </li>
+      <li> <a href="" target="_blank"> Let's Try Using Const - Appending Negative Numbers </a> </li>
+      <li> <a href="" target="_blank"> Let's Try Using Let - Setting a Largest String </a> </li>
+    </ul>
+    <li> <a href="" target="_blank">  Scope </a> </li>
+    <ul>
+      <li> <a href="" target="_blank"> Block Scope Quiz </a> </li>
+      <li> <a href="" target="_blank"> Using Let in Block Scope </a> </li>
+    </ul>
+  </ul>
+  <figcaption> 50 Projects in 50 Days - HTML, CSS & JavaScript </figcaption>
+   <!-- Image of progress here -->
+  <ul>
+    <li> <a href="" target="_blank"> Project Intro </a> </li>
+    <li> <a href="" target="_blank"> Initial Cards </a> </li>
+    <li> <a href="" target="_blank"> Expanding Effect </a> </li>
+  </ul>
+  <figcaption> 10 Mega Responsive Websites with HTML, CSS, and JavaScript </figcaption>
+  <ul>
+    <li> <a href="" target="_blank"> Project Preview </a> </li>
+    <li> <a href="" target="_blank"> Create and Customize Landing Page </a> </li>
+    <li> <a href="" target="_blank"> Create and Style Navigation </a> </li>
+    <li> <a href="" target="_blank"> Create and Customize Progress Bars </a> </li>
+    <li> <a href="" target="_blank"> Create and Customize Projects Section </a> </li>
+    <li> <a href="" target="_blank"> Create and Style Contact Section </a> </li>
+    <li> <a href="" target="_blank"> Create and Style Footer </a> </li>
+    <li> <a href="" target="_blank"> Make Navbar and Progress Bars Work Using JavaScript </a> </li>
+    <li> <a href="" target="_blank"> Make Project Responsive </a> </li>
+  </ul>
+</figure>
 
   
 
