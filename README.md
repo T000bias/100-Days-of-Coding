@@ -441,14 +441,14 @@ _#>Use Recursion to Create a Countdown</a></li>
     <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers" target="
 _#">Use Recursion to Create a Range of Numbers</a></li>
   </ul>
-  <figcaption> JavaScript and JQuery Made Easy </figcaption>
+  <figcaption> Learn JavaScript in 1 Hour </figcaption>
   <ul>
-    <li> <a href="https://stackskills.com/courses/68579/lectures/1002300" target="
-_#"> Elements and Attributes </a> </li>
-    <li> <a href="https://stackskills.com/courses/68579/lectures/1002301" target="
-_#"> Events </a> </li>
-    <li> <a href="https://stackskills.com/courses/68579/lectures/1002302" target="
-_#"> Function Calculator </a> </li>
+    <li> <a href="https://stackskills.com/courses/3613/lectures/74616" target="_blank">Let's Learn JavaScript</a> </li>
+    <li> <a href="https://stackskills.com/courses/3613/lectures/74617" target="_blank">Introduction to the course</a> </li>
+    <li> <a href="https://stackskills.com/courses/3613/lectures/74618" target="_blank">HTML CSS and JavaScript</a> </li>
+    <li> <a href="https://stackskills.com/courses/3613/lectures/74619" target="_blank">Adding in a button a function</a>  </li>
+    <li> <a href="https://stackskills.com/courses/3613/lectures/74620" target="_blank">Scaling Functions</a>  </li>
+    <li> <a href="https://stackskills.com/courses/3613/lectures/74621" target="_blank">Changing the text in JavaScript</a>  </li>
   </ul>
 </figure>
 
