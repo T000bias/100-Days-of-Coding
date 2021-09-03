@@ -3,6 +3,7 @@
   <li> If possible, add icons to applicable elements. (i.e. figcaption elements in the list) </li>
   <li> Have all completed task as links so that if anyone wants to see what exactly I did they can go to it or at least try it for themselves. </li>
   <li> Have a real nav bar that will not only send you to specific days, but also to a project section, social media section etc...</li>
+  <li> Find Icons for social media contacts (Twitter*, linkedIn, codepen, etc)
 </ul>
 
 <hr>
@@ -454,80 +455,36 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <hr>
 
 <h2 id="day19"> Day 19/100 | Date 09/02/2021 | Review & Learn </h2>
+<a href="https://codepen.io/your-work/"> Code Pen Projects </a>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
-<p> Summary: </p>
+<p> Summary: Started doing projects using the core technologies. I still feel like I don't know what I am doing, but the more projects under my belt the more confidence I can build. This is also the time to review old modules from new voices, meaning that instead of going directly back to the freeCodeCamp modules to re-learn a topic, I can go to another e-course and start from there. It sounds reductive to go to another course to get the same information, but hearing another person's explanation on a topic can help you reinforce a subject/topic. </p>
 <figure>
   <figcaption> Completed Task(s)</figcaption>
   <br>
-  <figcaption> The Web Developer Bootcamp 2021 </figcaption>
-  <!-- Image of progress here -->
-  <ul>
-    <li> <a href="https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/21930182#overview" target="_blank"> What Matters in This Section </a> </li>
-    <li> <a href="" target="_blank"> Why JavaScript is Awesome </a> </li>
-    <li> <a href="" target="_blank"> Primitives & The Console </a> </li>
-    <li> <a href="" target="_blank"> JavaScript Numbers </a> </li>
-    <li> <a href="" target="_blank"> WTF is NaN </a> </li>
-    <li> <a href="" target="_blank"> Quick Numbers Quiz </a> </li>
-    <li> <a href="" target="_blank"> Variables & Let </a> </li>
-    <li> <a href="" target="_blank"> Coding Exercise 15: Our First Variables Exercise </a> </li>
-    <li> <a href="" target="_blank"> Updating Variables </a> </li>
-    <li> <a href="" target="_blank"> Const & Var </a> </li>
-    <li> <a href="" target="_blank"> Quiz 3: Variables Quiz </a> </li>
-    <li> <a href="" target="_blank"> Booleans </a> </li>
-    <li> <a href="" target="_blank"> Variable Naming and Conventions </a> </li>
-    <li> <a href="" target="_blank"> Quiz 4: Quick Variable Quiz </a> </li>
-  </ul>
   <figcaption> freeCodeCamp </figcaption>
+  <img src="https://user-images.githubusercontent.com/28234609/131931442-85ce2b6f-b3c5-4ca8-9168-96e183b72aea.png">
   <!-- Image of progress here -->
   <ul>
-    <li> <a href="" target="_blank"> Explore Differences Between the var and let Keywords </a> </li>
-    <li> <a href="" target="_blank"> Compare Scopes of the var and let Keywords </a> </li>
-    <li> <a href="" target="_blank"> Declare a Read-Only Variable with the const Keyword </a> </li>
-    <li> <a href="" target="_blank"> Mutate an Array Declared with const </a> </li>
-    <li> <a href="" target="_blank"> Prevent Object Mutation </a> </li>
-    <li> <a href="" target="_blank"> Use Arrow Functions to Write Concise Anonymous Functions </a> </li>
-    <li> <a href="" target="_blank"> Set Default Parameters for Your Functions </a> </li>
-    <li> <a href="" target="_blank"> Use the Rest Parameter with Function Parameters </a> </li>
-    <li> <a href="" target="_blank"> Use the spread Operator to Evaluate Arrays In-Place </a> </li>
-    <li> <a href="" target="_blank"> Use Destructuring Assignment to Extract Values from Objects </a> </li>
-    <li> <a href="" target="_blank"> Use Destructuring Assignment to Assign Variables from Nested Objects </a> </li>
-  </ul>
-  <figcaption> Leveling up to ES6 </figcaption>
-   <!-- Image of progress here -->
-  <ul>
-    <li> <a href="" target="_blank"> Introduction  </a> </li>
-    <li> <a href="" target="_blank"> Setup </a> </li>
-    <li> <a href="" target="_blank">  Const </a> </li>
-    <li> <a href="" target="_blank">  Let </a> </li>
-    <ul>
-      <li> <a href="" target="_blank"> Let and Const Quiz </a> </li>
-      <li> <a href="" target="_blank"> Let's Try Using Const - Appending Negative Numbers </a> </li>
-      <li> <a href="" target="_blank"> Let's Try Using Let - Setting a Largest String </a> </li>
-    </ul>
-    <li> <a href="" target="_blank">  Scope </a> </li>
-    <ul>
-      <li> <a href="" target="_blank"> Block Scope Quiz </a> </li>
-      <li> <a href="" target="_blank"> Using Let in Block Scope </a> </li>
-    </ul>
+    <li> <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/explore-differences-between-the-var-and-let-keywords" target="_blank"> Explore Differences Between the var and let Keywords </a> </li>
+    <li> <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords" target="_blank"> Compare Scopes of the var and let Keywords </a> </li>
+    <li> <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/declare-a-read-only-variable-with-the-const-keyword" target="_blank"> Declare a Read-Only Variable with the const Keyword </a> </li>
+    <li> <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const" target="_blank"> Mutate an Array Declared with const </a> </li>
+    <li> <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/prevent-object-mutation" target="_blank"> Prevent Object Mutation </a> </li>
   </ul>
   <figcaption> 50 Projects in 50 Days - HTML, CSS & JavaScript </figcaption>
-   <!-- Image of progress here -->
+  <img src="https://user-images.githubusercontent.com/28234609/131919683-cec91a63-8316-47cf-9a07-8c7423aba6af.png">
   <ul>
-    <li> <a href="" target="_blank"> Project Intro </a> </li>
-    <li> <a href="" target="_blank"> Initial Cards </a> </li>
-    <li> <a href="" target="_blank"> Expanding Effect </a> </li>
+    <li> <a href="https://www.udemy.com/course/50-projects-50-days/learn/lecture/23595170#content" target="_blank"> Project Intro </a> </li>
+    <li> <a href="https://www.udemy.com/course/50-projects-50-days/learn/lecture/23595182#content" target="_blank"> Initial Cards </a> </li>
+    <li> <a href="https://www.udemy.com/course/50-projects-50-days/learn/lecture/23595192#content" target="_blank"> Expanding Effect </a> </li>
   </ul>
   <figcaption> 10 Mega Responsive Websites with HTML, CSS, and JavaScript </figcaption>
+  <img src="https://user-images.githubusercontent.com/28234609/131931233-c667ebcd-7a9d-47dc-a8f9-8c6c4d73935b.png"> 
   <ul>
     <li> <a href="" target="_blank"> Project Preview </a> </li>
     <li> <a href="" target="_blank"> Create and Customize Landing Page </a> </li>
     <li> <a href="" target="_blank"> Create and Style Navigation </a> </li>
-    <li> <a href="" target="_blank"> Create and Customize Progress Bars </a> </li>
-    <li> <a href="" target="_blank"> Create and Customize Projects Section </a> </li>
-    <li> <a href="" target="_blank"> Create and Style Contact Section </a> </li>
-    <li> <a href="" target="_blank"> Create and Style Footer </a> </li>
-    <li> <a href="" target="_blank"> Make Navbar and Progress Bars Work Using JavaScript </a> </li>
-    <li> <a href="" target="_blank"> Make Project Responsive </a> </li>
+    <li> <a href="https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/learn/lecture/23006172#overview" target="_blank"> Create and Customize Progress Bars </a> </li>
   </ul>
 </figure>
 
