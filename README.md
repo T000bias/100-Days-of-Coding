@@ -3,7 +3,9 @@
   <li> If possible, add icons to applicable elements. (i.e. figcaption elements in the list) </li>
   <li> Have all completed task as links so that if anyone wants to see what exactly I did they can go to it or at least try it for themselves. </li>
   <li> Have a real nav bar that will not only send you to specific days, but also to a project section, social media section etc...</li>
-  <li> Find Icons for social media contacts (Twitter*, linkedIn, codepen, etc)
+  <li> Find Icons for social media contacts (Twitter*, linkedIn, codepen, etc) </li>
+  <li> Want to have a tutorial list with links to the video and to my version of it </li>
+  <li> Instead of calendar style day navigation, a scrolladex might be eaiser. </li>
 </ul>
 
 <hr>
@@ -455,7 +457,7 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <hr>
 
 <h2 id="day19"> Day 19/100 | Date 09/02/2021 | Review & Learn </h2>
-<a href="https://codepen.io/your-work/"> Code Pen Projects </a>
+<p> Here is my <a href="https://codepen.io/your-work/"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
 <p> Summary: Started doing projects using the core technologies. I still feel like I don't know what I am doing, but the more projects under my belt the more confidence I can build. This is also the time to review old modules from new voices, meaning that instead of going directly back to the freeCodeCamp modules to re-learn a topic, I can go to another e-course and start from there. It sounds reductive to go to another course to get the same information, but hearing another person's explanation on a topic can help you reinforce a subject/topic. </p>
 <figure>
@@ -487,7 +489,23 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
     <li> <a href="https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/learn/lecture/23006172#overview" target="_blank"> Create and Customize Progress Bars </a> </li>
   </ul>
 </figure>
-
+<hr> 
+<h2 id="day20"> Day 20/100 | Date 09/03/2021 | Something Slight </h2>
+<p> Here is my <a href="https://codepen.io/your-work/"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: Did one youtube tutorial today and read a <a href="https://dev.to/cglikpo/tips-to-become-a-great-programmer-471e"> article </a> nothing much after that. My project doesn't work exactly like the video so I am planning on going over the documentation tomorrow. </p>
+<figure>
+  <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> YouTube </figcaption>
+  <ul>
+    <li> <a href="https://www.youtube.com/watch?v=LeaWb_3UDK4"> Navigation Tiles </a> </li>
+      <ul>
+        <li> <a href="https://codepen.io/T00bias/pen/abwmOPG"> My Navigation Tiles </a> </li>
+      </ul>
+  </ul>
+  </figure>
+  <hr>
   
 
 
