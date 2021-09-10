@@ -546,7 +546,7 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
     <br>
     <figcaption> CSS Diner </figcaption>
     <ul>
-      <li> <a href="https://flukeout.github.io/"> All 32 Levels </a> </li>
+      <li> <a href="https://flukeout.github.io/" target="_blank"> All 32 Levels </a> </li>
     </ul>
   </figure>
 <hr>
