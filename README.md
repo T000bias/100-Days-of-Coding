@@ -506,7 +506,36 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   </ul>
   </figure>
   <hr>
-  
+  <h2 id="day21"> Day 21/100 | Date 09/09/2021 | Just like the Phoenix, I rise </h2>
+<p> Here is my <a href="https://codepen.io/your-work/"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: </p>
+<figure>
+  <figcaption> Completed Task(s) Reviewed </figcaption> 
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021 </figcaption>
+  <ul>
+    <li>Section 5: HTML: Forms & Tables - What Matters in This Section </li>
+    <li>Section 5: HTML: Forms & Tables - Unit Goals</li>
+    <li>Section 5: HTML: Forms & Tables - Introducing HTML Tables </li>
+    <li>Section 5: HTML: Forms & Tables - Tables: TR, TD, and TH Elements </li>
+    <li>Section 5: HTML: Forms & Tables - Tables: Thead, Tbody, and Tfoot elements</li>
+    <li>Section 5: HTML: Forms & Tables - Tables: Colspan & Rowspan</li>
+    <li>Section 5: HTML: Forms & Tables - Coding Exercise 5: Table Practice Exercise </li>
+    <li>Section 5: HTML: Forms & Tables - The Form Element </li>
+    <li>Section 5: HTML: Forms & Tables - Common Input Types </li>
+    <li>Section 5: HTML: Forms & Tables - The All-Important Label </li>
+    <li>Section 5: HTML: Forms & Tables - HTML Buttons </li>
+    <li>Section 5: HTML: Forms & Tables - The Name Attribute </li>
+    <li>Section 5: HTML: Forms & Tables - Hijacking Google & Reddit's Search </li>
+    <li>Section 5: HTML: Forms & Tables - Radio Buttons, Checkboxes & Selects </li>
+    <li>Section 5: HTML: Forms & Tables - Range & Text Area </li>
+    <li>Section 5: HTML: Forms & Tables - Coding Exercise 6: Forms Practice Exercise </li>
+    <li>Section 5: HTML: Forms & Tables - HTML5 Form Validations </li>
+    <li>Section 5: HTML: Forms & Tables - Creating a Marathon Registration Form Intro </li>
+    <li>Section 5: HTML: Forms & Tables - Creating a Marathon Registration Form Intro Solution </li>
+  </ul>
+</figure>
 
 
 
