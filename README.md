@@ -541,8 +541,14 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <p> Here is my <a href="https://codepen.io/your-work/"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
 <p> Summary: </p>
-  
- 
+  <figure>
+    <figcaption> Completed Task(s) </figcaptio>
+    <br>
+    <figcaption> CSS Diner </figcaption>
+    <ul>
+      <li> <a href="https://flukeout.github.io/"> All 32 Levels </a> </li>
+    </ul>
+  </figure>
 <hr>
 
 
