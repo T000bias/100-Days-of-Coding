@@ -515,27 +515,35 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   <br>
   <figcaption> The Web Developer Bootcamp 2021 </figcaption>
   <ul>
-    <li>Section 5: HTML: Forms & Tables - What Matters in This Section </li>
-    <li>Section 5: HTML: Forms & Tables - Unit Goals</li>
-    <li>Section 5: HTML: Forms & Tables - Introducing HTML Tables </li>
-    <li>Section 5: HTML: Forms & Tables - Tables: TR, TD, and TH Elements </li>
-    <li>Section 5: HTML: Forms & Tables - Tables: Thead, Tbody, and Tfoot elements</li>
-    <li>Section 5: HTML: Forms & Tables - Tables: Colspan & Rowspan</li>
-    <li>Section 5: HTML: Forms & Tables - Coding Exercise 5: Table Practice Exercise </li>
-    <li>Section 5: HTML: Forms & Tables - The Form Element </li>
-    <li>Section 5: HTML: Forms & Tables - Common Input Types </li>
-    <li>Section 5: HTML: Forms & Tables - The All-Important Label </li>
-    <li>Section 5: HTML: Forms & Tables - HTML Buttons </li>
-    <li>Section 5: HTML: Forms & Tables - The Name Attribute </li>
-    <li>Section 5: HTML: Forms & Tables - Hijacking Google & Reddit's Search </li>
-    <li>Section 5: HTML: Forms & Tables - Radio Buttons, Checkboxes & Selects </li>
-    <li>Section 5: HTML: Forms & Tables - Range & Text Area </li>
-    <li>Section 5: HTML: Forms & Tables - Coding Exercise 6: Forms Practice Exercise </li>
-    <li>Section 5: HTML: Forms & Tables - HTML5 Form Validations </li>
-    <li>Section 5: HTML: Forms & Tables - Creating a Marathon Registration Form Intro </li>
-    <li>Section 5: HTML: Forms & Tables - Creating a Marathon Registration Form Intro Solution </li>
+    <li>Section 5: HTML: Forms & Tables</li>
+    <ul>
+      <li>Section 5: HTML: Forms & Tables - What Matters in This Section </li>
+      <li>Section 5: HTML: Forms & Tables - Unit Goals</li>
+      <li>Section 5: HTML: Forms & Tables - Introducing HTML Tables </li>
+      <li>Section 5: HTML: Forms & Tables - Tables: TR, TD, and TH Elements </li>
+    </ul>
+    <li>Section 4: HTML: Next Steps & Semantics</li>
+    <ul>
+      <li> Section 4: What Matters in This Section </li>
+      <li> Section 4: What Exactly is HTML 5? </li>
+      <li> Section 4: Block vs. Inline Elements - Divs and Spans </li>
+      <li> Section 4: An Odd Assortment of Elements: HR, BR, Sup, and Sub </li>
+      <li> Section 4: Entity Codes </li>
+      <li> Section 4: Coding Exercise 4: Snowman Logo Exercise </li>
+      <li> Section 4: Intro to Semantic Markup </li>
+      <li> Section 4: Playing with Semantic Elements </li>
+      <li> Section 4: Screen Reader Demonstration </li>
+      <li> Section 4: VSCode Tip: Emmet </li>
   </ul>
 </figure>
+<hr>
+<h2 id="day22"> Day 22/100 | Date 09/10/2021 | Boss up like Rick Ross </h2>
+<p> Here is my <a href="https://codepen.io/your-work/"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: </p>
+  
+ 
+<hr>
 
 
 
