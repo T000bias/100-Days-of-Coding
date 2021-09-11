@@ -550,6 +550,31 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
     </ul>
   </figure>
 <hr>
+<h2 id="day23"> Day 23/100 | Date 09/11/2021 | Soul Coder </h2>
+<p> Here is my <a href="https://codepen.io/your-work/"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: </p>
+  <figure>
+    <figcaption> Completed Task(s) </figcaption>
+    <br>
+    <figcaption> JavaScript React App </figcaption>
+    <ul>
+    </ul>
+    <figcaption> Portfolio </figcaption>
+    <ul>
+    </ul>
+    <figcaption> Psychic Game <figcaption>
+      <ul>
+      </ul>
+      <figcaption> Word Guess </figcaption>
+      <ul>
+      </ul>
+      <figcaption> Crystal Collector </figcaption>
+      <ul>
+      </ul>
+      <figcaption> Star Wars RPG </figcaption>
+  </figure>
+<hr>
 
 
 
