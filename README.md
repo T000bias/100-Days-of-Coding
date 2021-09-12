@@ -557,24 +557,6 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   <figure>
     <figcaption> Completed Task(s) </figcaption>
     <br>
-    <figcaption> JavaScript React App </figcaption>
-    <ul>
-    </ul>
-    <figcaption> Portfolio </figcaption>
-    <ul>
-    </ul>
-    <figcaption> Psychic Game <figcaption>
-      <ul>
-      </ul>
-      <figcaption> Word Guess </figcaption>
-      <ul>
-      </ul>
-      <figcaption> Crystal Collector </figcaption>
-      <ul>
-      </ul>
-      <figcaption> Star Wars RPG </figcaption>
-      <ul>
-      </ul>
       <figcaption> Bootcamp Activities </figcaption>
       <ul>
         <li> <a href="https://github.com/T000bias/Basic-Portfolio"> Student Bio </a> </li>
