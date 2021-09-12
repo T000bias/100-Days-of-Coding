@@ -573,6 +573,12 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
       <ul>
       </ul>
       <figcaption> Star Wars RPG </figcaption>
+      <ul>
+      </ul>
+      <figcaption> Bootcamp Activities </figcaption>
+      <ul>
+        <li> <a href="https://github.com/T000bias/Basic-Portfolio"> Student Bio </a> </li>
+      </ul>
   </figure>
 <hr>
 
