@@ -6,6 +6,7 @@
   <li> Find Icons for social media contacts (Twitter*, linkedIn, codepen, etc) </li>
   <li> Want to have a tutorial list with links to the video and to my version of it </li>
   <li> Instead of calendar style day navigation, a scrolladex might be eaiser. </li>
+  <li> Add project tiles to completed repositories and code pens. </li>
 </ul>
 
 <hr>
@@ -563,7 +564,11 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
       </ul>
   </figure>
 <hr>
-
+  <h2 id="day24"> Day 24/100 | Date 09/13/2021 | Fake it til you make it </h2>
+<p> Here is my <a href="https://codepen.io/your-work/"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049"> Tweet </a> </p>
+<p> Summary: Today was a day of reflection. Updating this repository still counts as coding.</p>>
+<hr>
 
 
 
