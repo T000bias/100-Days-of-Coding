@@ -580,7 +580,7 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
     <br>
     <figcaption> GitHub </figcaption>
     <ul>
-      <li> <a href=" https://t000bias.github.io/" target="_blank"> Portfolio </a> </li>
+      <li> <a href="https://t000bias.github.io/" target="_blank"> Portfolio </a> </li>
     </ul>
   </figure>
   
