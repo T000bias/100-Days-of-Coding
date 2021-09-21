@@ -7,6 +7,8 @@
   <li> Want to have a tutorial list with links to the video and to my version of it </li>
   <li> Instead of calendar style day navigation, a scrolladex might be eaiser. </li>
   <li> Add project tiles to completed repositories and code pens. </li>
+  <li> Change list to tables to make this shorter </li>
+  
 </ul>
 
 <hr>
