@@ -573,7 +573,7 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   
 <hr>
   
-  <h2 id="day25"> Day 25/100 | Date 09/14/2021 | We are almost there </h2>
+  <h2 id="day25"> Day 25/100 | Date 09/15/2021 | We are almost there </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
   <p> Summary: Used <a href="https://pages.github.com/" target="_blank"> github pages </a> to host my main portfolio website which you can checkout in the completed tasks section. The confidence to build more sites has been sparked so going thru tutorials and Colt's Bootcamp is the plan.</p>
@@ -588,4 +588,30 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   
   <hr>
   
-  
+  <h2 id="day26"> Day 26/100 | Date 09/15/2021 | Coding is Unbreakable pt 1 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+  <h2 id="day27"> Day 27/100 | Date 09/16/2021 | Coding is Unbreakable pt 2 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+  <h2 id="day28"> Day 28/100 | Date 09/17/2021 | Coding is Unbreakable pt 3 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+<hr>
+  <h2 id="day29"> Day 29/100 | Date 09/18/2021 | Coding is Unbreakable pt 4 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+  <h2 id="day30"> Day 30/100 | Date 09/19/2021 | Coding is Unbreakable pt 5 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+  <h2 id="day31"> Day 31/100 | Date 09/20/2021 | Coding is Unbreakable pt 6 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+  <h2 id="day32"> Day 32/100 | Date 09/21/2021 | Divergence </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
