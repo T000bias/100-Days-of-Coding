@@ -11,9 +11,12 @@
   
 </ul>
 
+
 <hr>
 
 <nav>
+  
+<label>Day's Navigation:</label>
   <table>
       <tr>
         <th> <a href=#day1> Day 1 </a> </th>
@@ -615,3 +618,26 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   <h2 id="day32"> Day 32/100 | Date 09/21/2021 | Divergence </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  
+  <h2 id="day33"> Day 33/100 | Date 09/24/2021 | Made in VS Pt 1 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+  <h2 id="day34"> Day 34/100 | Date 09/30/2021 | Made in VS Pt 2 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+  <h2 id="day35"> Day 35/100 | Date 10/04/2021 | Made in VS Pt 3 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+<hr>
+  <h2 id="day36"> Day 36/100 | Date 10/05/2021 | Made in VS Pt 4 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+  <h2 id="day37"> Day 37/100 | Date 10/07/2021 | Made in VS Pt 5 </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+  <hr>
+
+
