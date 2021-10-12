@@ -662,14 +662,14 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   <h2 align="center"> The Marathon Continues </h2>
   <hr>
   
-  <h2 id="day39" align="center"> Day 39/100 | Date 10/11/2021 | 11 Days until the big 50 </h2>
+  <h2 id="day39" align="center"> Day 39/100 | Date 10/11/2021 | 11 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
   <h2 align="center"> The Marathon Continues </h2>
   <hr>
   
   <h2 align="center"> Roadmap for Today </h2>
-<img src="https://user-images.githubusercontent.com/28234609/136730830-772b6530-addd-44ee-bc44-19f90dcc64e7.png">
+<img src="https://user-images.githubusercontent.com/28234609/136862233-db122983-043a-4689-9f63-7f6ddf233421.png">
   
   <h2 align="center"> The Marathon Continues </h2>
   <hr>
