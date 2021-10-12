@@ -650,29 +650,31 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   <h2 align="center"> The Marathon Continues </h2>
   <hr>
   
-  <h2 id="day37" align="center"> Day 37/100 | Date 10/07/2021 | Made in VS Pt 5 </h2>
+<h2 id="day37" align="center"> Day 37/100 | Date 10/07/2021 | Made in VS Pt 5 </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
-  <h2 align="center"> The Marathon Continues </h2>
-  <hr>
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
   
-  <h2 id="day38" align="center"> Day 38/100 | Date 10/07/2021 | Made in VS Pt 6 (End) </h2>
+<h2 id="day38" align="center"> Day 38/100 | Date 10/07/2021 | Made in VS Pt 6 (End) </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
-  <h2 align="center"> The Marathon Continues </h2>
-  <hr>
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
   
-  <h2 id="day39" align="center"> Day 39/100 | Date 10/11/2021 | 11 Days until the "Big 50" </h2>
+<h2 id="day39" align="center"> Day 39/100 | Date 10/11/2021 | 11 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
-  <h2 align="center"> The Marathon Continues </h2>
-  <hr>
+<h2 align="center"> Roadmap for Today </h2>
+<img src="https://user-images.githubusercontent.com/28234609/136862233-db122983-043a-4689-9f63-7f6ddf233421.png">  
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
   
-  <h2 align="center"> Roadmap for Today </h2>
-<img src="https://user-images.githubusercontent.com/28234609/136862233-db122983-043a-4689-9f63-7f6ddf233421.png">
-  
-  <h2 align="center"> The Marathon Continues </h2>
-  <hr>
-
+<h2 id="day40" align="center"> Day 40/100 | Date 10/11/2021 | 10 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+<h2 align="center"> Roadmap for Today </h2>
+<img src="https://user-images.githubusercontent.com/28234609/137011487-6dbccebb-a36e-4f82-86e3-3c227f276ff4.png">
+<h2 align="center"> The Marathon Continues </h2>
 
 
