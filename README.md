@@ -682,12 +682,6 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
    <figure>
     <figcaption> Completed Task(s) </figcaption>
     <br>
-    <figcaption>  The Web Developer Bootcamp 2021 </figcaption>
-    <ul>
-      <li> Introducing The World of The DOM </li>
-      <li> The Missing Piece: DOM Events </li>
-      <li> Score Keeper CodeAlong </li>
-    </ul>
   </figure>
 <h2 align="center"> The Marathon Continues </h2>
 
@@ -697,6 +691,9 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
 <p> Summary: </p>
+<h2 align="center"> Today's Roadmap </h2>
+  <img src="https://user-images.githubusercontent.com/28234609/137143986-1f4a2787-cc96-4c99-b1ea-b0efed363ac5.png" align="center">
+
   
 <figure>
   <figcaption> Completed Task(s) </figcaption>
