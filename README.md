@@ -692,7 +692,9 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
 <p> Summary: </p>
 <h2 align="center"> Today's Roadmap </h2>
-  <img src="https://user-images.githubusercontent.com/28234609/137143986-1f4a2787-cc96-4c99-b1ea-b0efed363ac5.png" align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/28234609/137143986-1f4a2787-cc96-4c99-b1ea-b0efed363ac5.png" >
+</div>
 
   
 <figure>
