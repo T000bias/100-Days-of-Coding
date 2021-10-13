@@ -670,7 +670,7 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <h2 align="center"> The Marathon Continues </h2>
 <hr>
   
-<h2 id="day40" align="center"> Day 40/100 | Date 10/11/2021 | 10 Days until the "Big 50" </h2>
+<h2 id="day40" align="center"> Day 40/100 | Date 10/12/2021 | 10 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
  <p> Summary: Started @wesbos CSS Grid course. This will be my refresher on CSS since for the last few weeks I been learning JavaScript.
@@ -690,5 +690,19 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
     </ul>
   </figure>
 <h2 align="center"> The Marathon Continues </h2>
+
+<hr>
+  
+<h2 id="day41" align="center"> Day 41/100 | Date 10/13/2021 | 9 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+<p> Summary: </p>
+  
+<figure>
+  <figcaption> Completed Task(s) </figcaption>
+</figure>
+<h2 align="center"> The Marathon Continues </h2>
+
+<hr>
 
 
