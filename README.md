@@ -673,8 +673,22 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <h2 id="day40" align="center"> Day 40/100 | Date 10/11/2021 | 10 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+ <p> Summary: Started @wesbos CSS Grid course. This will be my refresher on CSS since for the last few weeks I been learning JavaScript.
+   In my studies I found that trying to memorize everything in code is impossible. Even the small things like declaring a variable. So
+   an idea I had was creating a repository that will house all of the coding languages and techniques. Basically, there will be folder named "So you forgot "blank" "
+   and the corresponding folders will have specific lessons I can refer to those folders for guidence. Hopefully, I can have a dedicated hosting page on firefox to have my own coding playground.
 <h2 align="center"> Roadmap for Today </h2>
 <img src="https://user-images.githubusercontent.com/28234609/137011487-6dbccebb-a36e-4f82-86e3-3c227f276ff4.png">
+   <figure>
+    <figcaption> Completed Task(s) </figcaption>
+    <br>
+    <figcaption>  The Web Developer Bootcamp 2021 </figcaption>
+    <ul>
+      <li> Introducing The World of The DOM </li>
+      <li> The Missing Piece: DOM Events </li>
+      <li> Score Keeper CodeAlong </li>
+    </ul>
+  </figure>
 <h2 align="center"> The Marathon Continues </h2>
 
 
