@@ -690,7 +690,9 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <h2 id="day41" align="center"> Day 41/100 | Date 10/13/2021 | 9 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
-<p> Summary: </p>
+<p> 
+  Summary: Finished section 24 of Colt's bootcamp and plan on making more projects while still reviewing older modules. I feel like memorizing code isn't a effective way of learning, (for me) so my current plan is taking more time to learn a technique before learning a new one. The way this would go is say that I watch a video that is 12 mins long, instead of coding along (stopping and pausing to match code) I will watch the video thru and just listen. Then I would watch the video again and take notes of steps and syntax; the video will be put on a higher speed. Then, on the final watch, I will code along with the instructor seeing if I full understand how this new technique and old ones work together. I'm still fleshing out the process.
+</p>
 <h2 align="center"> Today's Roadmap </h2>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/28234609/137143986-1f4a2787-cc96-4c99-b1ea-b0efed363ac5.png" >
@@ -699,9 +701,19 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   
 <figure>
   <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021 </figcaption>
+  <ul>
+    <li> Section 24: Introducing The World of The DOM </li>
+  </ul>
 </figure>
 <h2 align="center"> The Marathon Continues </h2>
 
 <hr>
+  
+<h2 id="day42" align="center"> Day 42/100 | Date 10/14/2021 | 8 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
+<p> 
 
 
