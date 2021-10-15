@@ -699,13 +699,12 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 </div>
 
   
+  
 <figure>
   <figcaption> Completed Task(s) </figcaption>
   <br>
   <figcaption> The Web Developer Bootcamp 2021 </figcaption>
-  <ul>
-    <li> Section 24: Introducing The World of The DOM </li>
-  </ul>
+  <br>
 </figure>
 <h2 align="center"> The Marathon Continues </h2>
 
@@ -713,7 +712,100 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
   
 <h2 id="day42" align="center"> Day 42/100 | Date 10/14/2021 | 8 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
-<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p>
-<p> 
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: Tried my new strategy, didn't go so well, but I shouldn't give up on it just because it failed on deployment. Maybe some tweaking of process should happen. The one project I did today has it's own repository right <a href="https://github.com/T000bias/Random-Background-Color">Here</a>. Newer versions of this project will be updated there. At the time of writing this I am still going thru my roadmap trying to finish at least one more section. </p>
+<h2 align="center"> Today's Roadmap </h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/28234609/137430917-350a994e-2e03-4f1c-80c7-dcd3e271f4ce.png">
+  </div>
+  <div align="center">
+  <h2 align="center"> Completed Projects/Exercises </h2>
+    <img src="https://user-images.githubusercontent.com/28234609/137431695-b4e2f0a5-9ba1-4f19-86a8-97382281118b.png">
+    <br>
+  <figcaption> Background randomizer </figcaption>
+</div>
+  <br> <br> <br> <br>
+<figure>
+  <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021 </figcaption>
+  <ul>
+    <li> What Matters in this Section </li>
+    <li> Intro to Events </li>
+    <li> Inline Events </li>
+    <li> Coding Exercise 59; Know Thy Enemy Exercise </li>
+    <li>  The Onclick property </li>
+    <li> addEventListener </li>
+    <li> Coding Exercise 60: Click Events Exercise </li>
+    <li> Random Color Exercise </li>
+    <li> Events & The Keyword This </li>
+    <li> Keyboard Events & Event Objects </li>
+    <li>  Form Events & PreventDefault </li>
+    <li> Coding Exercise 61: Form Events </li>
+    <li> Input & Change Events </li>
+    <li> Coding Exercise 62: Input Event Practice </li>
+    <li> Event Bubbling </li>
+   <li>  Event Delegation </li>
+    </figure>
+ <h2 align="center"> The Marathon Continues </h2>
+ <hr>
+  
+<h2 id="day43" align="center"> Day 43/100 | Date 10/14/2021 | 7 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
+<h2 id="day44" align="center"> Day 44/100 | Date 10/14/2021 | 6 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
+<h2 id="day45" align="center"> Day 45/100 | Date 10/14/2021 | 5 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
+<h2 id="day46" align="center"> Day 46/100 | Date 10/14/2021 | 4 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
+<h2 id="day47" align="center"> Day 47/100 | Date 10/14/2021 | 3 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
+<h2 id="day48" align="center"> Day 48/100 | Date 10/14/2021 | 2 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
+<h2 id="day49" align="center"> Day 49/100 | Date 10/14/2021 | 1 Days until the "Big 50" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
+<h2 id="day50" align="center"> Day 50/100 | Date 10/14/2021 | "placeholder" </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
+
 
 
