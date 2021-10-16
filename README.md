@@ -10,6 +10,7 @@
   <li> Change list to tables to make this shorter </li>
   <li> wrap text around images. </li>
   <li> wrap list around images. </li>
+  <li> see if is possible to add gif/videos in github </li>
   
 </ul>
 
@@ -753,7 +754,38 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <h2 id="day43" align="center"> Day 43/100 | Date 10/14/2021 | 7 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
-
+<p> Summary: Today was tough to get thru, but I made it out on the other end. The main concepts that I am currently lost on are Form events. This concept will require more research to understand, rewatching lectures to hammer down certain points, and trying out the concept without the guided code; I am looking forward to this. Tried the 50 days project 1 over again with my new found knowledge of the DOM made leaving notes in the code much more concise than before. I plan on implementing this project in my portfolio. which is getting updated this weekend.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/28234609/137570030-a39d6d41-9c11-4bba-803c-35280ffebd5e.png">
+</div>
+ 
+ <div align="center">
+  <h2 > Completed Projects/Exercises </h2>
+    <!-- place a gif/video of the expanding card project-->
+  </div>
+ 
+   <br>
+   <br>
+   <br>
+  
+<figure>
+  <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021 </figcaption>
+  <ul>
+    <li> Score Keeper pt 1 </li>
+    <li> Score Keeper pt 2 </li>
+    <li> Score Keeper pt 3 </li>
+    <li> Score Keeper pt 4 </li>
+   </ul>
+  <figcaption> 50 Projects in 50 Days - HTML, CSS & JavaScript </figcaption>
+  <ul>
+    <li> Project Intro </li>
+    <li> Initial Cards </li>
+    <li> Expanding Effect </li>
+   </ul>
+    </figure>
+ 
 <h2 align="center"> The Marathon Continues </h2>
 <hr>
 
