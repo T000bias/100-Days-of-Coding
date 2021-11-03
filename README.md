@@ -805,14 +805,61 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 
 <h2 id="day46" align="center"> Day 46/100 | Date 10/14/2021 | 4 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
-<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> 
+<p> Summary: Today was packed with information ranging from Async JS to AJAJ (Asynchronous JavaScript and JSON). Most of the information completely went over my head, but I presisted through. I plan on going back over the videos tomorrow while still continuing learning new information. Not much coding was done today (after this commit, some coding was done), but that is apart of my learning process. The first viewing of a section, I will only take notes and save the actual coding for the second viewing. Many of udemy courses recommend this approach with e-courses. Instead of calling this approach time consuming, I will embrace it until the end of the course and see how much information I retained. Another section is getting to my daily reports and that is the stats section. This section will hold my time spend learning today along with how long I was coding in VScode. </p>
 
+  <div align="center">
+    <h2> Today's Stats </h2>
+    <img src="https://user-images.githubusercontent.com/28234609/140002912-542d8f9d-b96b-43fe-b87c-8792fd654ab2.png">
+    <img src="https://user-images.githubusercontent.com/28234609/140003173-e6c19e88-486b-4691-becd-09b9da1a6318.png">
+  </div>
+  <div align="center">
+    <h2> Today's Roadmap </h2>
+    <img src="https://user-images.githubusercontent.com/28234609/140002118-60346926-413c-49f7-ad37-8a4b05e96e2f.png">
+  </div>
+  <figure>
+  <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021: Async JavaScript </figcaption>
+  <ul>
+    <li> The Call Stack </li>
+    <li> WebAPIs & Single Threaded </li>
+    <li> Callback Heck </li>
+    <li> Demo: fakeRequest Using Callbacks </li>
+    <li> Demo: fakeRequest Using Promises </li>
+    <li> The Magic Of Promises </li>
+    <li> Creating Our Own Promises </li>
+    <li> The Async Keyword </li>
+    <li> The Await Keyword </li>
+    <li> Handling Errors in Async Functions </li>
+   </ul>
+    <figcaption> The Web Developer Bootcamp 2021: AJAX and APIs </figcaption>
+  <ul>
+    <li> Intro to AJAX </li>
+    <li> Intro to APIs </li>
+    <li> What is JSON </li>
+    <li> Using Postman  </li>
+    <li> Query Strings & Headers </li>
+    <li> Making XHR's </li>
+    <li> The Fetch API </li>
+    <li> Intro to Axios </li>
+   </ul>
+  </figure>
 <h2 align="center"> The Marathon Continues </h2>
 <hr>
 
 <h2 id="day47" align="center"> Day 47/100 | Date 10/14/2021 | 3 Days until the "Big 50" </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> </p> Summary: </p>
+
+  <div align="center">
+    <h2> Today's Stats </h2>
+  </div>
+  
+  <div align="center">
+    <h2> Today's Roadmap </h2>
+    <img src="https://user-images.githubusercontent.com/28234609/140004777-d7c4515d-3468-4415-ac1f-0992c7c856ad.png">
+  </div>
 
 <h2 align="center"> The Marathon Continues </h2>
 <hr>
