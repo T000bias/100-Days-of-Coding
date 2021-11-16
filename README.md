@@ -885,6 +885,21 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <h2 align="center"> The Marathon Continues </h2>
 <hr>
 
+<h2 id="day51" align="center"> Day 51/100 | Date 11/15/2021 | Divergence </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> 
+<p>Summary: I finally found my rhythm with studying and still progressing foward with learning. In order for me to retain all of the information I learned the day prior, I make that the first thing I review before starting new material. Notes go first then flashcards to finish it off. After today I am adding the "Certification" section to my post to show my creditals on certain topics. On Linked Learning I started the learning path "Become a Front-End Web Developer" just to reinforce older topics I getting further from.</p>
+<div align="center">
+    <h2> Today's Stats </h2>
+    <img src="https://user-images.githubusercontent.com/28234609/141891817-a21af766-d03d-4a23-af22-0b1e7594bfed.png">
+  </div>
+<div align="center">
+  <h2> Certificate(s) of Completion </h2>
+  <img src="https://user-images.githubusercontent.com/28234609/141890691-ae0bc7c5-6652-43a1-a3a0-433a4a631e89.png" height="50%" width="50%">
+  </div>
+<h2 align="center"> The Marathon Continues </h2>
+<hr>
+
 
 
 
