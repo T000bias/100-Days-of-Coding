@@ -901,5 +901,193 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 <hr>
 
 
+<h2 id="day52" align="center"> Day 52/100 | Date 11/16/2021 | Back to Basics  </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a>
+<div align="center">
+  <p>Summary: Finally put my pride aside and went back in my course to relearn JS instead pushing on just to get my certificate. Each day I go over 1 section from colt's course and take notes on that section.</p>
+    <h2> Today's Stats </h2>
+  <p> NOT RECORDED TODAY </p>
+  </div>
+  
+  <div align="center">
+  <h2> Certificate(s) of Completion </h2>
+  <p> N/A </p>
+</div>  
+  
+  <figure>
+  <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021: Section 14: JavaScript Basics! </figcaption>
+  <ul>
+    <li> What matters in this section </li>
+    <li> Why JavaScript is Awesome </li>
+    <li> Primitives & The Console </li>
+    <li> JavaScript Numbers </li>
+    <li> WTF is NaN</li>
+    <li> Varialbe & Let</li>
+    <li> Updating variables</li>
+    <li> const & var</li>
+    <li> Booleans</li>
+    <li> Variable Naming and conventions</li>
+  </ul>
+  </figure>
+  <h2 align="center"> The Marathon Continues </h2>
+
+
+
+<hr>
+<h2 id="day53" align="center"> Day 53/100 | Date 11/17/2021 | Final Flash(card) </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a>
+<p> Summary: Got my flashcard system setup on anki and remnote</p>
+<div align="center">
+    <h2> Today's Stats </h2>
+  <p> NOT RECORDED TODAY </p>
+  </div>
+  
+  
+ <div align="center">
+  <h2> Certificate(s) of Completion </h2>
+  <p> N/A </p>
+</div>
+  
+  
+  <figure>
+  <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021: Section 15: JavaScript Strings and More </figcaption>
+  <ul>
+    <li> What matters in this section </li>
+    <li> Why JavaScript is Awesome </li>
+    <li> Primitives & The Console </li>
+    <li> JavaScript Numbers </li>
+    <li> WTF is NaN</li>
+    <li> Varialbe & Let</li>
+    <li> Updating variables</li>
+    <li> const & var</li>
+    <li> Booleans</li>
+    <li> Variable Naming and conventions</li>
+  </ul>
+  </figure>
+  <h2 align="center"> The Marathon Continues </h2>
+
+
+
+
+<hr>
+<h2 id="day54" align="center"> Day 54/100 | Date 11/18/2021 | 5 projects a day </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a>
+<p> Summary: Decided to do more projects solely based on HTML and CSS since I am re-learning JS. </p>
+<div align="center">
+    <h2> Today's Stats </h2>
+  <p> NOT RECORDED TODAY </p>
+  </div>
+  
+ <div align="center">
+  <h2> Certificate(s) of Completion </h2>
+  <p> N/A </p>
+</div>
+  
+  
+  
+  <figure>
+  <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021: Section 16: JavaScript Decision Making </figcaption>
+  <ul>
+    <li> What matters in this section </li>
+    <li> Decision making with code? </li>
+    <li> Comparison operators </li>
+    <li> Equality: Triple Vs Double Equals </li>
+    <li> Console, Alert & Prompt </li>
+    <li> Running JavaScript from a script </li>
+    <li> If statements </li>
+    <li> else-if </li>
+    <li> else </li>
+    <li> Nesting conditionals </li>
+    <li> Truth-y & false-y values </li>
+    <li> Logical AND </li>
+    <li> Logical OR </li>
+    <li> Logical NOT </li>
+    <li> The Switch Statement is... a lot </li>
+  </ul>
+  </figure>
+  <h2 align="center"> The Marathon Continues </h2>
+
+
+
+
+<hr>
+<h2 id="day55" align="center"> Day 55/100 | Date 11/19/2021 | Finally caught a vibe </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> 
+<p> Summary: Got my study plan all set and will share it in tomorrow's summary.</p>
+<div align="center">
+    <h2> Today's Stats </h2>
+      <img src="https://user-images.githubusercontent.com/28234609/142748941-65c54ce8-1e04-403a-94b6-ce7a66c3dcf3.png">
+  </div>
+  
+  
+<div align="center">
+  <h2> Certificate(s) of Completion </h2>
+  <p> N/A </p>
+</div>
+  
+  
+  <figure>
+  <figcaption> Completed Task(s) </figcaption>
+  <br>
+  <figcaption> The Web Developer Bootcamp 2021: Section 17: JavaScript Arrays </figcaption>
+  <ul>
+    <li> What matters in this section </li>
+    <li> Introducing Arrays </li>
+    <li> Array Random Access </li>
+    <li> Push & Pop </li>
+    <li> Shift & unshift </li>
+    <li> concat, indexOf, includes & reverse </li>
+    <li> Slice & splice </li>
+    <li> Reference Types & Equality testing </li>
+    <li> Arrays + const </li>
+    <li> Multi-Dimensional Arrays </li>
+  </ul>
+  </figure>
+  <h2 align="center"> The Marathon Continues </h2>
+
+
+<hr>
+<h2 id="day56" align="center"> Day 56/100 | Date 11/19/2021 | The Plan is set </h2>
+<p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
+<p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> 
+<p> Summary: Now that I finally figured out how I will study I comfortable with sharing that information with the people. The course I am currently working on is the colt's "The Web Developer Bootcamp 2022" and it has 61 sections with about 70+ hours (including quizzes) of content. There is two ways you can approach this course, take about 4 hours mon thru fri and finish the course in about a 2 (3 max) weeks or you could take each section day by day; I choose the latter. Once you get past the HTML and CSS sections, taking it slow is a better way to ingrain JS (if you never worked with a standard* programming language). With each section I create at 10 to 20 flashcards based off of the information given and use flashcard apps like anki to study with. So my day would look like 
+<ol>
+  <li> Review prior material, </li>
+  <li> Review flashcards, </li>
+  <li> Learn new section, </li>
+  <li> Review today's notes. </li>
+  </ol>After that since you know the basics of HTML and CSS, you should be building projects based off those two skills. Don't worry about adding functionality to your pages, thats something you can add on later. Keeping those skills always active instead of inactive will reinforce everything you learned and reduce the time need to review prior notes; you can still review old notes if you want. My goal would be at least 5 projects posted to my code pen or github. Thats it so far.
+  </p>
+<div align="center">
+    <h2> Today's Stats </h2>
+  <p> NOT RECORDED </p>
+  </div>
+  
+   <div align="center">
+  <h2> Certificate(s) of Completion </h2>
+  <p> N/A </p>
+</div>
+ 
+ 
+  <h2 align="center"> The Marathon Continues </h2>
+
+
+<hr>
+
+
+
+
+
+
 
 
