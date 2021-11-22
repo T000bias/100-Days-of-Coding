@@ -1090,7 +1090,7 @@ _#">Use Recursion to Create a Range of Numbers</a></li>
 
 <hr>
 
-<h2 id="day56" align="center"> Day 56/100 | Date 11/20/2021 | The Plan is set </h2>
+<h2 id="day57" align="center"> Day 57/100 | Date 11/21/2021 | Setting up for the end </h2>
 <p> Here is my <a href="https://codepen.io/your-work/" target="_blank"> Code Pen </a> </p>
 <p> My commitment <a href="https://twitter.com/Ui3er/status/1428530760898818049" target="_blank"> Tweet </a> 
 <p> Summary: Now that I finally figured out how I will study I comfortable with sharing that information with the people. The course I am currently working on is the colt's "The Web Developer Bootcamp 2022" and it has 61 sections with about 70+ hours (including quizzes) of content. There is two ways you can approach this course, take about 4 hours mon thru fri and finish the course in about a 2 (3 max) weeks or you could take each section day by day; I choose the latter. Once you get past the HTML and CSS sections, taking it slow is a better way to ingrain JS (if you never worked with a standard* programming language). With each section I create at 10 to 20 flashcards based off of the information given and use flashcard apps like anki to study with. So my day would look like 
